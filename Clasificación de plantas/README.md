@@ -42,9 +42,20 @@ Clasificación de plantas/
     iris_regresion_lineal.py
 ```
 
-## Notas
-- El script es interactivo y requiere que el usuario ingrese valores por consola.
-- La clasificación de nuevas plantas se realiza generando todas las combinaciones posibles dentro de los intervalos proporcionados.
+
+## Descripción del procedimiento y algoritmo
+
+Este script realiza una **clasificación multiclase** sobre el dataset IRIS utilizando un enfoque de **regresión lineal One-vs-Rest (OVR)**. Además, permite al usuario ingresar intervalos para las características de una nueva planta y visualizar gráficamente la relación entre una característica y la probabilidad de pertenecer a una clase.
+
+**Procedimiento general:**
+
+1. **Carga de datos:** Se utiliza el dataset IRIS de `sklearn`, que contiene 150 muestras de flores con 4 características (largo y ancho de sépalo y pétalo) y 3 clases (tipos de iris).
+2. **División de datos:** Los datos se dividen en conjuntos de entrenamiento y prueba (80% entrenamiento, 20% prueba) para evaluar el desempeño del modelo.
+3. **Entrenamiento con One-vs-Rest:** Se entrena un modelo de regresión lineal para cada clase. Para cada modelo, la clase correspondiente se marca como 1 y las demás como 0 (binario). Así, cada modelo aprende a distinguir una clase contra el resto.
+4. **Predicción y evaluación:** Para cada muestra de prueba, se obtienen las predicciones de todos los modelos y se asigna la clase con el mayor valor predicho. Se calcula la precisión y se muestra la matriz de confusión.
+5. **Clasificación interactiva:** El usuario ingresa intervalos para cada característica de una nueva planta. El programa genera todas las combinaciones posibles dentro de esos intervalos y predice la clase para cada una.
+6. **Visualización gráfica:** Al final, se muestra una gráfica de dispersión de la primera característica (por ejemplo, largo del sépalo) contra la probabilidad de pertenecer a la primera clase, usando la regresión lineal entrenada. Las otras características se mantienen en su valor medio para la predicción.
+
 
 ## Licencia
 Uso académico.

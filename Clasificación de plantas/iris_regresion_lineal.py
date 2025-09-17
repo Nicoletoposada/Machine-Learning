@@ -6,7 +6,9 @@ import numpy as np
 from sklearn.linear_model import LinearRegression
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score, confusion_matrix
+
 from sklearn import datasets
+import matplotlib.pyplot as plt
 
 
 def cargar_datos():
@@ -71,14 +73,40 @@ def clasificar_nueva_planta_intervalo(modelos, target_names, feature_names, X):
             break
 
     # Generar todas las combinaciones posibles
+
     from itertools import product
     combinaciones = list(product(*rangos))
     print(f"\nClasificando {len(combinaciones)} combinaciones posibles:")
+    resultados = []
     for idx, valores in enumerate(combinaciones, 1):
         nueva_planta = np.array([valores])
         scores = [modelo.predict(nueva_planta)[0] for modelo in modelos]
         clase_predicha = np.argmax(scores)
         print(f"Combinación {idx}: {valores} => {target_names[clase_predicha]}")
+        resultados.append((valores, scores, clase_predicha))
+
+    # Graficar dispersión y línea de regresión para la primera característica y la primera clase
+    caracteristica_idx = 0  # Primera característica
+    clase_idx = 0  # Primera clase
+    X_feat = X[:, caracteristica_idx]
+    y_bin = (datasets.load_iris().target == clase_idx).astype(int)
+    modelo = modelos[clase_idx]
+
+    # Para graficar la predicción, crear entradas de 4 características:
+    # variar solo la primera, las otras en su media
+    X_otros = np.mean(X[:, 1:], axis=0)
+    X_pred = np.array([[x] + list(X_otros) for x in X_feat])
+    y_pred = modelo.predict(X_pred)
+
+    plt.figure(figsize=(8, 5))
+    plt.scatter(X_feat, y_bin, color='blue', label='Datos reales (binario)')
+    plt.plot(X_feat, y_pred, color='red', label='Regresión lineal')
+    plt.xlabel(feature_names[caracteristica_idx])
+    plt.ylabel(f'Probabilidad clase "{target_names[clase_idx]}"')
+    plt.title(f'Regresión lineal para clase "{target_names[clase_idx]}"')
+    plt.legend()
+    plt.tight_layout()
+    plt.show()
 
 
 
