@@ -1,0 +1,1001 @@
+nombre,email,fecha,asunto,longitud_cuerpo,num_adjuntos,num_links,remitente_sospechoso,contiene_palabras_dinero,urgencia
+Marcial Contreras Peña,chita80@example.org,2025-05-05,¡Última oportunidad!,922,1,2,1,1,1
+Flora Miró,mpenas@example.net,2023-10-29,¡Gana un iPhone!,1003,0,4,1,1,1
+Timoteo del Artigas,cozarsandra@example.com,2025-04-22,¡Has sido seleccionado!,1133,2,4,1,1,1
+Encarna de Luz,cipriano43@example.com,2024-04-10,Premio en efectivo,1075,2,4,1,1,1
+Eligia Navarrete,cpelayo@example.org,2024-12-18,Recordatorio de pago,1136,0,1,0,0,0
+Toni Company Alcántara,amarilisquiroga@example.org,2023-09-06,Premio en efectivo,1047,2,3,1,1,1
+Jeremías Marin-Murcia,lagocaridad@example.com,2024-09-20,¡Gana un iPhone!,958,2,5,1,1,1
+Olimpia Vanesa Carro Losada,apaez@example.com,2024-12-26,Reunión semanal,833,0,1,0,0,0
+Magdalena Emperatriz Canales Huerta,donatogalindo@example.net,2025-01-25,Plan de actividades,1116,1,1,0,0,0
+Nadia Mariscal Angulo,ericgomez@example.com,2025-04-12,Reporte de ventas,1089,1,1,0,0,0
+Maite Pujol Páez,berengueramor@example.org,2024-01-24,Agenda de actividades,1027,0,1,0,0,0
+Adela Barrena Morera,huertajuan-francisco@example.com,2025-06-21,Informe trimestral,1337,0,0,0,0,0
+Melchor Serrano Ariño,valerogertrudis@example.org,2023-12-28,¡Gana dinero rápido!,1067,2,4,1,1,1
+Esperanza Talavera,tejeroamando@example.com,2024-04-18,Plan de actividades,1355,0,1,0,0,0
+Sandalio de Escribano,artemiolluch@example.net,2025-02-20,Dinero fácil y rápido,1077,0,5,1,1,1
+Noemí Galván Gordillo,bustosalbert@example.net,2024-04-21,Informe trimestral,840,0,0,0,0,0
+Yésica Concha Villar Benavente,gracielamorata@example.org,2025-08-07,Premio en efectivo,1160,1,4,1,1,1
+Julieta Cabrera Cuenca,ricotejada@example.org,2023-11-06,Recordatorio de pago,1205,0,0,0,0,0
+Casandra Prudencia Goñi Varela,alcides33@example.net,2024-09-25,Recordatorio de pago,1281,0,1,0,0,0
+Lalo Nilo Prada Alcolea,atienzagenoveva@example.net,2025-07-13,¡Gana un viaje!,1210,1,4,1,1,1
+Regina de Amigó,severo81@example.org,2025-07-20,¡Gana dinero rápido!,1038,1,3,1,1,1
+Félix Espinosa Sarmiento,ycarranza@example.org,2025-02-15,Transferencia pendiente,1103,1,4,1,1,0
+Cristian Canals-Cabrero,hmenendez@example.net,2025-03-15,Recordatorio de pago,1240,0,1,0,0,0
+Alejandro Mayol Carmona,amparo07@example.com,2024-06-17,Oferta exclusiva para ti,1163,2,3,1,1,1
+Delia Egea Velasco,wilfredo61@example.org,2024-07-22,Minuta de reunión,1224,1,1,0,0,0
+Antonia Oliva Planas,cerrogertrudis@example.org,2024-07-23,¡Gana dinero rápido!,895,0,5,1,1,1
+Cecilio Escamilla Cervantes,alvaradojacobo@example.org,2025-06-17,Premio asegurado solo hoy!,811,1,4,1,1,1
+Anastasia Camino,ybauza@example.com,2023-12-28,Plan de trabajo,1301,0,1,0,0,0
+Manuel Pinilla,herranzroque@example.net,2025-03-04,¡Gana dinero rápido!,1281,1,3,1,1,0
+Amancio Madrigal,lpalomares@example.net,2025-04-19,Cita médica,1328,1,1,0,0,0
+Venceslás Galindo-León,capdevilateodora@example.net,2024-09-12,Recordatorio de pago,852,0,0,0,0,0
+Pepe Vaquero Mora,castillareina@example.org,2024-03-12,Minuta de reunión,927,1,0,0,0,0
+Ana Rey-Vaquero,dguzman@example.com,2023-10-31,¡Última oportunidad!,1068,1,5,1,1,0
+Dorotea Soria Calderón,uquintero@example.com,2025-07-24,Informe mensual,1351,0,1,0,0,0
+José Mari Morillo Zabala,albano05@example.net,2025-02-22,Reporte de ventas,822,0,1,0,0,0
+Luis de Andrés,paz88@example.org,2024-03-21,Informe mensual,1372,0,0,0,0,0
+Adalberto Patiño Farré,encarnanino@example.net,2024-10-16,Plan de actividades,987,1,0,0,0,0
+Liliana Samper Blasco,roviraaitana@example.com,2025-06-15,Oferta exclusiva para ti,1054,0,4,1,1,1
+Agustina Duran Guardia,barrigajosep@example.org,2024-07-17,Dinero fácil y rápido,1151,2,5,1,1,1
+Camilo Leocadio Echeverría Palacio,ignacioprado@example.com,2025-06-04,Agenda de actividades,1174,0,0,0,0,0
+Rubén Bertrán Requena,montenegroignacia@example.org,2023-09-03,Informe trimestral,1236,0,1,0,0,0
+Jenaro Adán Morera,segovialuis@example.com,2024-10-13,Plan de trabajo,1037,0,1,0,0,0
+Milagros Verdú Lucena,manuela88@example.com,2023-08-29,Minuta de reunión,1133,0,1,0,0,0
+Carmina Gordillo Avilés,rosaandres@example.net,2025-07-15,¡Gana un viaje!,1120,1,5,1,1,1
+Belen Ureña Oller,ruthmoran@example.com,2024-11-05,Dinero fácil y rápido,1167,1,2,1,1,0
+Nico Gilabert Duarte,ktormo@example.org,2025-05-23,Dinero fácil y rápido,1218,1,4,1,1,1
+Casemiro Cuevas Amigó,salud01@example.com,2024-03-12,¡Gana un viaje!,825,2,2,1,1,1
+Jennifer Tormo Vazquez,tsacristan@example.com,2024-10-10,Premio en efectivo,850,2,4,1,1,0
+Jonatan del Gámez,baqueromaximino@example.com,2023-09-08,¡Has sido seleccionado!,1316,0,5,1,1,1
+Lara Prieto Benítez,viglesias@example.net,2024-02-26,¡Has sido seleccionado!,964,0,4,1,1,1
+Santiago Tomás Palomar,cristian87@example.com,2025-07-10,Cita médica,1300,0,1,0,0,0
+Estefanía Mariño Reguera,arcelia63@example.com,2023-12-16,Premio asegurado solo hoy!,1198,1,2,1,1,1
+Aura del Valero,griselda92@example.com,2025-05-29,Oferta exclusiva para ti,874,0,5,1,1,1
+Reinaldo Feliciano Amorós Cervantes,alcolearita@example.net,2024-08-13,Dinero fácil y rápido,923,1,2,1,1,1
+Liliana Casanovas,zorrillasamanta@example.com,2024-12-21,Agenda semanal,1235,0,1,0,0,0
+Jacinta del Pozo,silvio76@example.com,2024-12-20,¡Última oportunidad!,1202,1,2,1,1,0
+Yaiza Palomar,uzaragoza@example.com,2024-03-16,Recordatorio de pago,1277,0,1,0,0,0
+Hernán Chico-Escribano,isidoramercader@example.net,2024-06-05,¡Gana un viaje!,984,1,3,1,1,1
+Pacífica María Del Carmen Múgica Llorente,imesa@example.com,2024-09-20,Cita médica,915,1,1,0,0,0
+Alcides Barba Chamorro,amelia17@example.net,2024-09-28,Cita médica,1286,1,0,0,0,0
+Virgilio Perelló Palacios,ericlorenzo@example.com,2024-03-10,Reporte de ventas,823,1,0,0,0,0
+José Luis Vilalta Pareja,ubustamante@example.com,2024-04-18,Agenda semanal,962,0,1,0,0,0
+Cecilio Mínguez Amorós,perellomarita@example.net,2024-06-06,Recibe tu dinero,1251,0,2,1,1,1
+Salomón Canals-Rico,gastonmacias@example.org,2024-07-17,Recordatorio de pago,1042,0,0,0,0,0
+Reinaldo de Ariza,mlorenzo@example.org,2024-08-17,Minuta de reunión,1373,0,0,0,0,0
+Lorenza Bernad,haromarc@example.com,2025-02-12,¡Gana dinero rápido!,1281,1,5,1,1,1
+Amalia Feliu Giménez,tomasrosalina@example.org,2025-07-16,Cita médica,1359,0,0,0,0,0
+Mirta Godoy Cárdenas,matecarmelita@example.net,2025-06-15,Reporte de ventas,909,0,0,0,0,0
+Mohamed Ojeda,dulce75@example.com,2024-08-13,Premio en efectivo,1175,1,3,1,1,1
+Yéssica Gabaldón,omarmorcillo@example.com,2025-06-22,Plan de actividades,1009,0,0,0,0,0
+Gerardo del Sainz,valcarceleleuterio@example.com,2024-04-09,¡Gana dinero rápido!,874,2,5,1,1,1
+Julie Corbacho,zbejarano@example.org,2025-02-11,Cita médica,1076,0,1,0,0,0
+Renato Robles Blanes,tdelgado@example.org,2024-11-26,Reunión semanal,1083,0,1,0,0,0
+Jenny Vallejo-Segarra,aaroncolom@example.org,2024-11-10,¡Gana un iPhone!,1260,1,5,1,1,1
+Jeremías Campo,jblazquez@example.org,2024-05-15,Informe mensual,1161,0,0,0,0,0
+Corona Barros Barros,figuerascalista@example.org,2023-09-03,Recordatorio de pago,1262,0,1,0,0,0
+Victorino Tolosa Sáez,marcobravo@example.com,2024-12-23,Recibe tu dinero,1019,1,2,1,1,1
+Rosalina Pagès Olivera,jordipenas@example.net,2025-01-22,Premio asegurado solo hoy!,1216,2,4,1,1,1
+María Teresa Macias Tenorio,casadoteobaldo@example.net,2025-04-08,Minuta de reunión,1055,0,1,0,0,0
+José Medina,macarena11@example.net,2025-02-14,Premio asegurado solo hoy!,822,2,2,1,1,1
+Isidoro Wálter Navarrete Villalba,isidoroluis@example.org,2025-07-16,¡Gana un iPhone!,969,1,3,1,1,1
+Piedad Ramos-Anguita,alvaro55@example.org,2023-12-25,Reporte de ventas,939,0,1,0,0,0
+Vinicio Hurtado Roura,omontalban@example.com,2023-10-21,Plan de trabajo,1121,0,1,0,0,0
+Anabel Almeida León,naranjolupe@example.net,2024-08-10,Recordatorio de pago,940,0,1,0,0,0
+Carlito Iriarte Manjón,loreto23@example.net,2024-09-04,Transferencia pendiente,1085,2,4,1,1,0
+Osvaldo Cañete,wlobo@example.net,2025-06-29,Premio en efectivo,1034,0,5,1,1,1
+Nuria Crespo Llobet,mateucecilio@example.com,2024-03-27,Agenda semanal,989,0,1,0,0,0
+Arsenio Carreño Mariscal,linareselpidio@example.net,2024-06-24,Reunión semanal,1304,0,1,0,0,0
+Susana Quintero Nadal,luquemirta@example.org,2025-05-23,Oferta exclusiva para ti,1060,2,5,1,1,1
+Íngrid Asensio Cerdá,jennifer80@example.org,2024-11-21,¡Última oportunidad!,1114,1,5,1,1,1
+Flavio Valera Sureda,ctur@example.org,2025-07-30,Agenda semanal,1075,0,0,0,0,0
+Flora Ballester,marquezteofilo@example.org,2024-06-21,Recibe tu dinero,1245,1,3,1,1,1
+Filomena Antón Pont,calisto37@example.com,2025-06-11,Recibe tu dinero,1281,0,4,1,1,1
+Ema Fuente Luque,luis-angelnogueira@example.org,2024-01-31,¡Gana un iPhone!,849,0,2,1,1,1
+Begoña Saura Amor,franciscaangel@example.net,2024-08-11,Agenda de actividades,1134,0,0,0,0,0
+Gustavo Rincón,taboadaazeneth@example.net,2023-10-05,Premio en efectivo,1152,2,2,1,1,1
+Regina Vilanova Llobet,mataroman@example.net,2024-03-04,Minuta de reunión,1060,0,1,0,0,0
+Azeneth Sanchez-Feliu,solanacaridad@example.org,2024-04-20,Agenda de actividades,1131,0,1,0,0,0
+Toribio Segarra-Patiño,antunezencarnita@example.net,2024-02-17,Reporte de ventas,1030,1,0,0,0,0
+Álvaro Osuna-Neira,horaciobarragan@example.org,2024-01-21,Premio asegurado solo hoy!,1377,2,5,1,1,0
+Maricruz Blanes Mateos,lmolina@example.com,2025-04-27,Agenda semanal,1027,0,1,0,0,0
+Rosario Soria Girona,martinaalvarado@example.net,2025-03-07,Premio en efectivo,1145,2,2,1,1,1
+Roberto Duarte Aragón,nacho30@example.org,2024-04-30,¡Gana un viaje!,1372,0,5,1,1,1
+Débora Azcona Ribes,elorzavictor@example.com,2024-01-31,Recibe tu dinero,1078,0,2,1,1,1
+Belén Tamarit,vizcainoraul@example.com,2025-04-12,Transferencia pendiente,868,0,2,1,1,1
+Juan Carlos Blazquez,osoriomaxima@example.com,2024-06-15,Transferencia pendiente,919,2,4,1,1,0
+Pancho Villalobos-Agustín,amorfont@example.org,2025-05-20,Cita médica,1064,0,1,0,0,0
+Carla Iniesta Mascaró,merche17@example.com,2025-02-07,Cita médica,1126,0,0,0,0,0
+Ciro Llorente Arenas,duarteanunciacion@example.net,2025-07-05,¡Has sido seleccionado!,1235,1,2,1,1,1
+Agustina Trujillo Salgado,echevarriasantos@example.com,2024-01-25,Plan de trabajo,1249,0,1,0,0,0
+Samanta Hervia Garcia,francisco-josecazorla@example.com,2024-03-18,Recordatorio de pago,1086,0,1,0,0,0
+Jeremías Tena Fabra,fportero@example.net,2023-12-24,¡Última oportunidad!,862,1,2,1,1,1
+Nilo Sastre-Alcaraz,guillenambrosio@example.com,2024-09-11,Recibe tu dinero,1137,1,2,1,1,1
+Rebeca Arteaga Urrutia,gmanuel@example.net,2025-05-09,¡Has sido seleccionado!,854,1,3,1,1,1
+Amparo Fernández,caroloida@example.com,2024-04-13,Reporte de ventas,1143,0,0,0,0,0
+Daniela Rincón Casanovas,medinanacio@example.com,2024-06-30,Reunión semanal,1024,1,0,0,0,0
+Victorino Segura Rivero,gbartolome@example.org,2024-03-28,Informe trimestral,1137,0,1,0,0,0
+Jose Luis Álamo Alberto,olimpiaarregui@example.com,2024-02-21,Informe trimestral,840,0,1,0,0,0
+Ismael Santana Comas,selenaconde@example.net,2023-09-26,Cita médica,942,0,1,0,0,0
+Anna Robledo Carnero,ggiralt@example.org,2024-06-07,Recordatorio de pago,1379,0,1,0,0,0
+Dorita Benavente Redondo,alfredosantamaria@example.org,2025-06-09,Minuta de reunión,1081,1,0,0,0,0
+Tere Soria Pera,santos97@example.org,2024-02-14,Recibe tu dinero,1238,2,5,1,1,1
+Socorro Ricart,eliasgil@example.com,2024-07-29,Premio asegurado solo hoy!,1377,2,5,1,1,0
+Rogelio Múgica Alba,mtorrecilla@example.net,2025-05-21,Transferencia pendiente,812,2,5,1,1,1
+Edmundo Bayo Fabra,rfuster@example.org,2025-07-19,Reporte de ventas,1073,0,1,0,0,0
+Bernabé Prieto Bilbao,anselmocabrero@example.net,2024-11-13,Cita médica,1307,0,1,0,0,0
+Che Aristides Pulido Oliveras,georginaestevez@example.org,2025-07-17,Transferencia pendiente,845,2,3,1,1,1
+Mamen Vilalta-Olivares,eugeniomanso@example.net,2025-05-28,Agenda semanal,944,0,0,0,0,0
+Eugenio Martínez Cifuentes,nieves50@example.com,2024-12-19,Minuta de reunión,1197,1,1,0,0,0
+Rosenda de Saldaña,gabriel72@example.org,2023-10-24,Reunión semanal,1344,0,0,0,0,0
+Cintia Belda Comas,seve29@example.net,2025-02-18,Minuta de reunión,1181,0,0,0,0,0
+Elpidio Velázquez-Recio,xreguera@example.com,2023-11-07,Oferta exclusiva para ti,1042,2,4,1,1,1
+Genoveva Portero Cantero,morenoalejandra@example.org,2025-02-27,Dinero fácil y rápido,1075,1,3,1,1,1
+Armando Casas Barros,yolmo@example.org,2025-07-29,Plan de actividades,883,1,0,0,0,0
+Iván Cabrera Carpio,claverobenjamin@example.org,2024-09-12,¡Has sido seleccionado!,1030,0,2,1,1,1
+Liliana Aurelia Lozano Sabater,oiniguez@example.com,2024-09-04,Oferta exclusiva para ti,889,2,4,1,1,0
+Bernabé Carro Pino,xrojas@example.org,2025-02-11,Informe mensual,1232,0,0,0,0,0
+Tito Lledó Anaya,tomerenato@example.org,2025-04-12,¡Gana un iPhone!,1296,2,4,1,1,1
+Cornelio Ríos Montenegro,romerofederico@example.com,2024-07-05,¡Última oportunidad!,851,0,2,1,1,0
+Renato del Losada,lquero@example.net,2023-10-18,Premio asegurado solo hoy!,1002,1,3,1,1,1
+Berto Crespo-Baeza,aura78@example.com,2023-12-07,Reporte de ventas,1307,0,0,0,0,0
+Juanita Ramírez Bellido,mugicaesther@example.com,2024-02-23,Informe mensual,878,0,1,0,0,0
+Rogelio Anaya Arnal,malena81@example.net,2023-11-20,¡Has sido seleccionado!,1233,2,2,1,1,1
+Gil Bastida Calatayud,pinedajulian@example.org,2024-12-12,Lista de asistencia,1328,0,0,0,0,0
+Fidela Mesa Cabanillas,leonmaricela@example.com,2024-07-12,Minuta de reunión,944,1,1,0,0,0
+Luis Ángel Pereira Escalona,jose25@example.net,2024-08-24,Agenda de actividades,865,1,1,0,0,0
+Emiliana Lobo Verdú,tonigalvez@example.com,2024-05-29,Agenda semanal,818,0,0,0,0,0
+Abilio Cuéllar Mínguez,fuentessimon@example.net,2024-05-19,¡Gana un iPhone!,1017,1,4,1,1,1
+Lino Olivares Poza,montalbanazucena@example.net,2023-11-07,¡Has sido seleccionado!,952,0,3,1,1,1
+Rosa María Salcedo Gil,seve34@example.org,2025-07-28,Informe trimestral,1043,0,1,0,0,0
+Quirino Cortina Aguiló,barbaracazorla@example.org,2025-05-25,¡Has sido seleccionado!,846,2,5,1,1,0
+Antonia Meléndez Vazquez,emma45@example.net,2025-01-08,Informe trimestral,1137,0,0,0,0,0
+Azucena Mínguez Machado,tecla58@example.org,2025-02-19,Premio asegurado solo hoy!,891,0,5,1,1,1
+Heraclio Quesada Vara,tamayomarcelo@example.com,2023-09-21,Minuta de reunión,1258,0,0,0,0,0
+Ileana Guardia Osuna,primitiva57@example.org,2023-10-31,Recibe tu dinero,1044,2,2,1,1,1
+María Del Carmen Caballero Luque,susanaharo@example.org,2023-10-09,Lista de asistencia,1027,0,0,0,0,0
+Loreto Pareja-Rosell,maristela17@example.net,2024-08-09,¡Última oportunidad!,987,1,5,1,1,1
+Judith Redondo,fusterfortunata@example.com,2024-01-22,Reporte de ventas,1211,0,1,0,0,0
+Marisela Santiago Almagro,pozueloseveriano@example.com,2025-08-22,¡Gana dinero rápido!,956,0,3,1,1,1
+Arsenio Bayón,luis-angelpaniagua@example.org,2024-08-08,Plan de trabajo,1269,0,1,0,0,0
+Ileana Valencia,alcazarpatricio@example.com,2024-10-20,¡Responde ahora!,934,2,2,1,1,1
+Albert Gilberto Maza Angulo,cerdanadelardo@example.net,2025-07-12,Dinero fácil y rápido,1051,2,5,1,1,0
+Simón Fernández Roca,hectorbatlle@example.net,2023-10-14,Informe mensual,1339,1,0,0,0,0
+Maricela Pinto Batlle,quinteroadora@example.org,2023-12-12,Agenda semanal,1320,1,1,0,0,0
+Ileana Sara Vara Girona,ymolina@example.com,2024-10-08,¡Última oportunidad!,938,0,5,1,1,0
+Bruno Matas Blanco,arizainocencio@example.net,2024-10-09,¡Gana dinero rápido!,1189,1,4,1,1,1
+Rosendo Gálvez Frías,manuelarebollo@example.net,2024-04-25,Minuta de reunión,1351,0,0,0,0,0
+Tito Castellanos Casado,zalmeida@example.org,2025-01-02,Plan de trabajo,1221,0,0,0,0,0
+Ariadna Quirós Dueñas,wmelero@example.com,2024-06-03,Reporte de ventas,892,0,0,0,0,0
+Ramona Cases Pino,reinasanchez@example.com,2025-06-14,Premio en efectivo,1241,2,2,1,1,1
+Darío Chico Benitez,mascaroestela@example.org,2023-09-09,Informe trimestral,839,0,1,0,0,0
+Pili Álvarez Prat,ypuig@example.com,2025-07-08,Transferencia pendiente,1359,1,3,1,1,1
+Geraldo Caparrós,bellonayara@example.org,2025-04-11,Cita médica,1079,0,1,0,0,0
+Valentina del Morcillo,gabrielchacon@example.org,2025-06-04,Dinero fácil y rápido,884,2,3,1,1,1
+Maximiliano García Narváez,escamillaenrique@example.org,2025-06-10,Oferta exclusiva para ti,1296,1,4,1,1,0
+Georgina Pozuelo Martí,sbaena@example.com,2025-07-20,Oferta exclusiva para ti,962,1,2,1,1,1
+Gracia Pardo Amigó,qtrillo@example.net,2025-04-25,Cita médica,908,0,1,0,0,0
+Mireia Ribes Román,victor98@example.net,2023-09-03,Oferta exclusiva para ti,1332,1,4,1,1,1
+Pepito Quirós,lbarros@example.org,2024-11-10,¡Última oportunidad!,1323,1,5,1,1,1
+Áurea Pino Vila,marinanunciacion@example.com,2024-08-29,Minuta de reunión,921,1,1,0,0,0
+Dionisia del Ferrándiz,manolosevillano@example.org,2025-05-15,Plan de trabajo,868,0,1,0,0,0
+Manu Cañizares Ballesteros,pazangeles@example.com,2025-07-27,Transferencia pendiente,815,1,5,1,1,0
+Ignacia Moll Poza,daliaga@example.net,2024-12-18,¡Gana dinero rápido!,848,2,2,1,1,0
+Benigno Canales Soria,rllano@example.org,2024-12-14,Minuta de reunión,1068,0,0,0,0,0
+Viviana Blanes Villa,galvezanibal@example.org,2025-05-22,Premio asegurado solo hoy!,844,0,5,1,1,1
+Dimas Vila Ferrándiz,zorrillaheriberto@example.org,2023-09-17,Plan de actividades,883,0,0,0,0,0
+Marcia Garzón Zamorano,anibal48@example.org,2023-10-31,Premio asegurado solo hoy!,1287,1,3,1,1,1
+Antonia Somoza Echeverría,vcasals@example.net,2024-05-04,¡Gana dinero rápido!,891,1,3,1,1,1
+Sonia Menendez Román,anareguera@example.net,2025-05-12,Recordatorio de pago,1064,0,0,0,0,0
+Jacinta Ana Belén Malo Pou,sara90@example.org,2024-10-30,Premio en efectivo,1175,2,3,1,1,0
+Pío Fábregas Carvajal,jeremias47@example.com,2024-06-09,Oferta exclusiva para ti,1292,1,3,1,1,1
+Nazario Tejera Arrieta,lucenaanselma@example.org,2024-11-11,Oferta exclusiva para ti,905,0,5,1,1,0
+Alfonso de Barragán,catalananita@example.net,2025-03-10,¡Última oportunidad!,1307,1,3,1,1,1
+Gabino Riba Palomares,sabina33@example.net,2025-07-12,Plan de actividades,1304,1,1,0,0,0
+Domitila Guillén Bonilla,nayaramartin@example.org,2024-05-24,Premio asegurado solo hoy!,1174,0,4,1,1,0
+Abraham Higueras Ródenas,nydiacriado@example.com,2025-02-14,Reunión semanal,984,1,1,0,0,0
+Virgilio Reguera Gallart,julio19@example.com,2024-04-14,Dinero fácil y rápido,1188,2,2,1,1,0
+Abril Luján Gámez,dan19@example.org,2023-12-23,Plan de actividades,1317,0,0,0,0,0
+Nicolás Bru Villena,rubenmercader@example.org,2024-01-03,¡Gana un iPhone!,918,2,5,1,1,0
+Candelas Pou Calderon,florencio08@example.net,2025-04-09,¡Gana un iPhone!,824,1,3,1,1,0
+Mar Sonia Gálvez Zabala,lucasbaudelio@example.org,2023-10-11,Lista de asistencia,1170,0,1,0,0,0
+Desiderio Buenaventura Palomar Araujo,ferrandolope@example.net,2023-11-28,Recordatorio de pago,1029,1,0,0,0,0
+Rosario Cabañas Lucena,torrecillabaudelio@example.org,2023-12-06,Plan de actividades,1220,0,0,0,0,0
+Luis Miguel Ayala Fuster,fgarzon@example.com,2024-05-19,Plan de actividades,1329,0,0,0,0,0
+Soraya Castro Cañete,rsoler@example.org,2024-03-04,Minuta de reunión,826,1,1,0,0,0
+Ricardo de Valcárcel,etelvinarivas@example.net,2024-11-14,Premio en efectivo,809,1,3,1,1,1
+Silvia Valenciano-Blazquez,pguitart@example.org,2023-09-13,¡Gana un iPhone!,1323,1,3,1,1,1
+Ana Sofía Posada-Almansa,pbarriga@example.org,2023-10-04,Premio asegurado solo hoy!,994,1,2,1,1,1
+Reina Pallarès-Burgos,amelia75@example.net,2024-04-05,Recordatorio de pago,1077,0,0,0,0,0
+Natividad Carrasco Coloma,pastorpol@example.org,2024-01-20,¡Has sido seleccionado!,1202,0,2,1,1,1
+Catalina de Alsina,maria-cristina02@example.com,2025-03-20,Reunión semanal,1361,1,1,0,0,0
+Lourdes Ágata Porta Baquero,arocahermenegildo@example.com,2024-08-15,Informe mensual,1331,1,1,0,0,0
+Candelas Benavides Hierro,noagimenez@example.net,2024-10-20,Minuta de reunión,925,0,0,0,0,0
+Salvador Bueno,rgoicoechea@example.net,2024-04-27,¡Gana dinero rápido!,1112,2,3,1,1,1
+Paz Gracia Luna,garcesemma@example.net,2024-05-15,Cita médica,1144,0,1,0,0,0
+Óscar Guillén Revilla,jcordero@example.org,2024-10-19,Reporte de ventas,1305,0,0,0,0,0
+Carlito Batalla Bou,tgonzalo@example.com,2023-09-04,Agenda de actividades,825,0,0,0,0,0
+Benigna Marisa Soria Cañas,carreraprimitiva@example.net,2023-12-02,Recordatorio de pago,933,0,1,0,0,0
+Aroa Redondo Pol,veronicamarti@example.net,2024-02-22,Plan de actividades,927,1,1,0,0,0
+Calista Vélez Chacón,alejandra71@example.org,2024-06-19,Reporte de ventas,1069,0,0,0,0,0
+Feliciana Lopez Orozco,salvador38@example.com,2025-08-23,Agenda semanal,1086,1,0,0,0,0
+Jose Antonio de Vicens,valenciateresa@example.com,2024-08-29,Minuta de reunión,1227,1,0,0,0,0
+Octavia Casals Guitart,narcisa07@example.net,2024-12-04,¡Última oportunidad!,1230,1,4,1,1,0
+Juan Manuel Casares Lillo,varribas@example.net,2025-02-24,Agenda de actividades,1059,1,0,0,0,0
+Itziar Mur-Bárcena,belen11@example.com,2024-12-17,Plan de trabajo,1182,1,1,0,0,0
+Liliana Casanova-Aranda,camaraascension@example.com,2025-06-17,Oferta exclusiva para ti,914,1,3,1,1,0
+Pelayo Nadal Barragán,alondrabenavides@example.com,2025-07-14,Plan de trabajo,1293,0,0,0,0,0
+Casemiro Llopis Azorin,espanacayetana@example.org,2024-01-25,Plan de trabajo,1276,0,1,0,0,0
+Miguela Cal Vilar,apons@example.com,2024-06-23,Reunión semanal,996,0,1,0,0,0
+Anna Ochoa Valdés,lloretjacinta@example.org,2025-07-11,Cita médica,875,0,1,0,0,0
+Paulina Mirta Tolosa Bilbao,tomassancho@example.org,2024-01-10,¡Responde ahora!,813,1,3,1,1,0
+Jonatan Céspedes-Gallardo,fmariscal@example.org,2024-05-12,Plan de actividades,1102,0,1,0,0,0
+Emiliana Briones Blanes,lherrero@example.org,2025-06-06,Plan de actividades,1369,0,0,0,0,0
+Albano Hurtado-Egea,hilarioreguera@example.net,2025-01-21,Premio asegurado solo hoy!,1251,1,5,1,1,1
+Efraín Aguado-Pallarès,mamen91@example.com,2024-07-06,Informe trimestral,1131,0,0,0,0,0
+Marcio Plaza-Gutiérrez,lupita43@example.net,2024-05-13,Transferencia pendiente,1314,0,2,1,1,1
+Isaías Querol,nunezjose-ramon@example.org,2025-07-31,Plan de trabajo,1309,1,1,0,0,0
+Víctor Font,gabinozapata@example.net,2025-01-28,¡Gana un viaje!,832,0,5,1,1,1
+Julia Bru Torres,ccoronado@example.com,2025-02-10,Informe mensual,1152,0,0,0,0,0
+Diana Ugarte Gallego,barcojaime@example.net,2025-08-05,¡Responde ahora!,1126,1,2,1,1,0
+Alondra Morell Benitez,estradademetrio@example.org,2025-01-13,¡Has sido seleccionado!,1391,1,2,1,1,1
+Leonel Rovira Peiró,corona87@example.com,2025-05-09,Dinero fácil y rápido,1156,0,5,1,1,1
+Ani del Jove,calzadazaida@example.com,2024-03-22,¡Responde ahora!,936,1,3,1,1,0
+Luis Miguel Comas-Poza,ana06@example.org,2025-01-23,Premio en efectivo,868,2,5,1,1,1
+Clementina Hernández Gálvez,aarrieta@example.com,2025-01-27,Minuta de reunión,1216,0,1,0,0,0
+Porfirio Ribes Ortega,iadan@example.com,2024-08-04,Informe mensual,803,1,1,0,0,0
+Anselma Mateo Espejo,sainzmaria-dolores@example.com,2023-09-16,¡Última oportunidad!,1383,1,2,1,1,1
+Cecilio Goyo Pol Palau,jaraanastasio@example.net,2024-07-10,¡Última oportunidad!,825,1,5,1,1,1
+Jose Manuel Menéndez-Marín,angeles45@example.com,2024-10-02,Recordatorio de pago,1075,0,0,0,0,0
+Antonia Gallart Ropero,ines58@example.net,2024-09-21,¡Gana dinero rápido!,957,2,4,1,1,1
+Héctor Peláez Uriarte,blanesligia@example.com,2025-02-23,Plan de actividades,967,0,1,0,0,0
+Rufina Castillo Flores,lgomila@example.org,2024-07-04,¡Gana un iPhone!,1269,0,2,1,1,1
+Chelo Leiva Martín,adelamillan@example.org,2024-03-19,Lista de asistencia,1040,0,0,0,0,0
+Valerio Román Tello,carreramilagros@example.com,2025-04-26,Informe mensual,1172,0,0,0,0,0
+Fernanda Pallarès,castroceferino@example.org,2024-07-11,Reporte de ventas,1252,1,1,0,0,0
+Adelina Alma Peral Ropero,estebanchaparro@example.org,2023-09-04,Recibe tu dinero,1004,0,4,1,1,1
+Telmo Sánchez Talavera,olivia64@example.net,2025-05-03,Agenda de actividades,976,0,0,0,0,0
+Flor Aznar,miguelaparejo@example.net,2024-04-28,Agenda de actividades,869,1,0,0,0,0
+Candelaria Crespi Campo,inessevillano@example.net,2025-02-04,Transferencia pendiente,1158,1,3,1,1,1
+Rafa Lastra Quesada,xavier81@example.net,2024-08-09,Informe trimestral,955,1,0,0,0,0
+Diego del Maza,sergio78@example.net,2025-05-23,Lista de asistencia,1060,0,0,0,0,0
+Maricela Segarra Valencia,martinezmarita@example.org,2025-02-03,¡Última oportunidad!,1045,2,4,1,1,1
+Artemio Zabala Mesa,qserna@example.org,2024-07-11,¡Has sido seleccionado!,1072,1,4,1,1,0
+Tomasa Corral Cisneros,wferrando@example.com,2024-05-06,Informe trimestral,1148,0,1,0,0,0
+Erasmo Emiliano Casares Ferrero,heraclio56@example.org,2024-09-07,Cita médica,1351,0,1,0,0,0
+Jeremías Beltrán Tomé,encarnaagullo@example.net,2024-04-11,Minuta de reunión,888,0,0,0,0,0
+Manola Mir,landaraul@example.org,2025-07-27,Agenda semanal,1011,0,0,0,0,0
+Apolonia Frutos Hernando,quevedolazaro@example.com,2024-05-22,Premio asegurado solo hoy!,1214,1,4,1,1,0
+Pelayo Beltran Benito,paloma60@example.org,2024-12-19,Minuta de reunión,1220,0,1,0,0,0
+Emiliana Domínguez Bayón,urosello@example.net,2025-06-08,Lista de asistencia,1250,1,1,0,0,0
+Anastasio Peñas Ponce,marifabricio@example.net,2025-06-06,Reunión semanal,1044,0,0,0,0,0
+Adelaida Benitez-Corominas,corbachoruy@example.com,2025-07-31,¡Has sido seleccionado!,930,1,5,1,1,0
+Jaime Cano Infante,leire37@example.net,2024-11-14,Oferta exclusiva para ti,880,2,3,1,1,1
+Marcelo Tapia Marti,jose-manuel85@example.org,2024-11-07,Minuta de reunión,1074,0,1,0,0,0
+Anna Lledó Mayo,jespada@example.org,2024-01-09,Oferta exclusiva para ti,955,1,5,1,1,1
+Cándido Cobos Cid,eanton@example.org,2024-08-23,Cita médica,1272,0,0,0,0,0
+Nico del Carnero,jose-antoniosuarez@example.net,2023-09-29,Plan de actividades,997,0,0,0,0,0
+Adán Aguiló,jose91@example.net,2025-05-30,Plan de trabajo,1028,0,1,0,0,0
+Renato Vega-Borrego,modesta91@example.org,2025-07-11,¡Gana un iPhone!,1163,0,3,1,1,0
+Valerio Revilla Roig,wdiez@example.org,2024-04-13,Plan de actividades,935,0,0,0,0,0
+Amarilis Morales Barba,candelariasimo@example.com,2024-07-17,Agenda de actividades,1241,0,0,0,0,0
+Hector Calatayud Márquez,dpinol@example.org,2024-02-12,Premio en efectivo,1327,0,5,1,1,0
+Donato Madrigal Ródenas,lferrandez@example.net,2024-09-08,Lista de asistencia,1060,0,1,0,0,0
+Borja Soto Alegre,ecalatayud@example.net,2025-08-27,Minuta de reunión,1349,0,1,0,0,0
+Hugo Tolosa,riquelmeteresa@example.org,2024-08-23,Cita médica,962,0,1,0,0,0
+Amor Jerez-Noguera,trini42@example.com,2023-12-24,Agenda semanal,1153,1,1,0,0,0
+Jaime Ambrosio Solano Martín,jalfonso@example.com,2025-03-27,Minuta de reunión,860,0,0,0,0,0
+Lourdes Machado,zoraidafuentes@example.org,2023-10-13,Minuta de reunión,1298,0,0,0,0,0
+Rosario Mayoral Rincón,estebanmaria@example.com,2024-07-19,¡Última oportunidad!,1262,1,3,1,1,1
+Cipriano Naranjo Quintana,gervasioflor@example.org,2025-01-07,Informe mensual,921,0,0,0,0,0
+María Cristina Pelayo,mocana@example.org,2025-03-21,Agenda semanal,1010,1,1,0,0,0
+Estefanía Puerta Noguera,vidal16@example.com,2024-04-30,Lista de asistencia,837,1,0,0,0,0
+Máxima Alarcón Adán,federicogranados@example.net,2025-06-30,¡Has sido seleccionado!,1085,1,3,1,1,0
+Gisela Mir Luís,qamores@example.net,2025-05-17,Plan de actividades,932,0,0,0,0,0
+Florinda Jordán Arellano,asensioestrella@example.org,2024-09-28,Minuta de reunión,1125,0,1,0,0,0
+Amelia Carmona Huertas,fpalma@example.org,2025-07-14,Plan de actividades,801,1,1,0,0,0
+Victor Posada Arce,isafuertes@example.com,2025-03-18,Recibe tu dinero,1273,2,5,1,1,1
+Elba Jerez-Bilbao,bermudezdiana@example.org,2024-07-28,¡Responde ahora!,1129,1,4,1,1,1
+Anastasio Cabello Coronado,xcanete@example.com,2024-07-14,Oferta exclusiva para ti,1375,0,3,1,1,0
+Isidro Berrocal Morera,fortunata86@example.net,2024-06-04,Dinero fácil y rápido,891,1,2,1,1,1
+Ángela Luque-Gibert,oaraujo@example.org,2024-03-18,Premio en efectivo,943,1,5,1,1,1
+Itziar Font,heribertogoicoechea@example.net,2025-04-11,Transferencia pendiente,1376,2,4,1,1,0
+Ariel Valenzuela Rincón,isa66@example.net,2024-12-14,¡Gana un viaje!,1201,1,5,1,1,0
+América Peral-Ramos,susana96@example.org,2024-01-10,Minuta de reunión,1010,0,1,0,0,0
+Victor Barral,samuelcobos@example.net,2024-11-23,Oferta exclusiva para ti,842,2,5,1,1,1
+Modesto Gual-Nogueira,cecilia63@example.net,2024-10-30,¡Has sido seleccionado!,877,1,3,1,1,0
+Coral Boix Sierra,tpareja@example.org,2024-05-19,¡Gana un viaje!,1064,2,3,1,1,1
+Áurea Mendoza-Herrera,pelayorodenas@example.com,2025-06-20,Reporte de ventas,1301,0,1,0,0,0
+Pascuala Ainoa Prats Villanueva,benavidesapolonia@example.net,2025-07-07,Lista de asistencia,850,0,1,0,0,0
+Cornelio Botella Saldaña,uvalderrama@example.org,2024-10-24,Premio en efectivo,1334,1,5,1,1,1
+Esteban Niño Peña,elisabet27@example.net,2023-12-05,Informe mensual,1168,0,0,0,0,0
+Julia Heredia Uribe,delia94@example.net,2025-03-06,¡Última oportunidad!,864,1,5,1,1,1
+Tere García Lopez,azconacesar@example.org,2024-07-28,¡Gana un viaje!,804,0,2,1,1,1
+Juanito Cabeza Luján,andres-felipe05@example.com,2025-07-23,Premio asegurado solo hoy!,1082,1,2,1,1,1
+Alfredo Lerma Huertas,santosbegona@example.org,2025-01-09,Recordatorio de pago,1303,0,1,0,0,0
+Benito Cervera Vilalta,adalberto91@example.net,2025-04-12,¡Has sido seleccionado!,1198,0,4,1,1,0
+Ciriaco Vall-Perez,lucho71@example.com,2024-05-07,Premio asegurado solo hoy!,1274,2,3,1,1,0
+Tito Carbó,falconmaria-teresa@example.com,2023-11-22,Reunión semanal,1268,0,1,0,0,0
+Vera Farré Cifuentes,hermenegildocazorla@example.com,2024-08-22,Informe mensual,1070,0,1,0,0,0
+Pelayo Bernal,etorrents@example.org,2023-09-29,Informe trimestral,1301,0,0,0,0,0
+Ibán Avilés-Sierra,gerardo47@example.net,2025-04-17,Transferencia pendiente,907,1,3,1,1,1
+Jordi del Pelayo,herminioleon@example.net,2024-12-03,Informe mensual,997,1,1,0,0,0
+Wálter Gálvez,nievescobo@example.com,2024-04-11,Reunión semanal,1182,0,0,0,0,0
+Rómulo Barba Alvarez,victorquevedo@example.net,2024-12-25,Premio en efectivo,1024,1,5,1,1,0
+Jesús Bartolomé Pareja,cesar34@example.org,2024-07-19,Agenda semanal,936,0,0,0,0,0
+Evita de Perelló,eusebia85@example.com,2025-07-12,¡Responde ahora!,1311,1,3,1,1,1
+Ainara Piñol-Tormo,dora82@example.com,2024-11-19,Plan de actividades,1154,1,1,0,0,0
+Toni del Herranz,martin51@example.com,2023-08-30,Reporte de ventas,1342,1,1,0,0,0
+Berto Pinedo Téllez,candelaria71@example.net,2023-10-06,¡Última oportunidad!,1370,2,3,1,1,1
+Cirino de Gallardo,redondojose-luis@example.net,2024-12-25,Reunión semanal,1205,0,0,0,0,0
+Lorenza Maza Carmona,damian14@example.org,2025-01-14,¡Gana un viaje!,957,1,3,1,1,1
+Isidoro de Capdevila,ppardo@example.net,2025-06-30,¡Gana dinero rápido!,803,1,5,1,1,0
+Pastora Flores Palau,zbenavente@example.net,2024-06-26,¡Has sido seleccionado!,1286,0,2,1,1,0
+Julio César Lladó Gargallo,coral46@example.org,2025-03-24,Plan de actividades,881,0,0,0,0,0
+Reynaldo Lastra Verdú,vinaelias@example.org,2025-02-04,Informe trimestral,1100,0,1,0,0,0
+Ale Duran,nestorvarela@example.net,2024-07-27,Plan de actividades,1052,1,0,0,0,0
+Eric Sigfrido Pablo Verdugo,cquero@example.org,2024-02-26,Informe trimestral,1282,0,0,0,0,0
+Arcelia Montalbán Ruiz,angelino26@example.net,2024-02-17,Minuta de reunión,1291,0,0,0,0,0
+Nazario Larrea-Pagès,carmelita94@example.org,2024-07-11,Dinero fácil y rápido,1335,1,4,1,1,0
+Guiomar Font Rodriguez,mendezdaniela@example.org,2023-09-23,Informe mensual,826,1,0,0,0,0
+Sergio Yáñez Grande,ttoro@example.org,2025-08-09,Agenda de actividades,880,0,1,0,0,0
+Lino Cerezo Casals,ileanaacuna@example.net,2024-09-04,Plan de trabajo,997,0,1,0,0,0
+Leonardo Galán Cobo,rsoto@example.com,2024-11-07,Recibe tu dinero,822,0,3,1,1,1
+Aurora Tormo Blázquez,llanodani@example.net,2024-05-05,¡Has sido seleccionado!,1347,0,3,1,1,0
+Nilo Alsina Sedano,apolinarcaballero@example.net,2024-11-30,Dinero fácil y rápido,897,2,3,1,1,0
+Sol Baquero Carreño,batallajuan-luis@example.com,2023-11-04,Reporte de ventas,1047,0,1,0,0,0
+Hugo Sáenz-Jimenez,jordipeinado@example.net,2024-12-13,¡Gana un iPhone!,1093,2,2,1,1,0
+Virginia Pascual Landa,djuarez@example.org,2024-04-26,Recordatorio de pago,1066,0,0,0,0,0
+Oriana Espejo Enríquez,elianaesteban@example.net,2023-11-27,¡Última oportunidad!,1183,0,2,1,1,1
+Diego del Coello,ucarrillo@example.com,2025-08-07,Agenda de actividades,1051,0,1,0,0,0
+Florentina Hernández-Campo,olimpia76@example.org,2025-01-22,Minuta de reunión,1089,0,1,0,0,0
+Begoña Acevedo Montalbán,reina80@example.org,2024-07-05,Reporte de ventas,959,0,1,0,0,0
+Florina Escalona Gordillo,panfilocastejon@example.com,2024-12-20,Transferencia pendiente,961,0,3,1,1,1
+Azahara Peiró Álamo,nazariocastilla@example.net,2023-09-11,¡Gana dinero rápido!,805,2,5,1,1,1
+Cesar Querol Iriarte,blancovictoriano@example.net,2025-06-29,Minuta de reunión,1097,0,0,0,0,0
+Lourdes Peñas Cañas,raguado@example.net,2023-09-09,Plan de actividades,1171,0,1,0,0,0
+Bienvenida Coca-Duran,gacevedo@example.org,2025-05-14,Informe trimestral,1247,0,0,0,0,0
+María Jesús Bayo Vidal,pili60@example.org,2025-06-21,Reporte de ventas,890,0,1,0,0,0
+Berto Esteve Fuentes,tjaen@example.org,2025-05-29,Informe trimestral,1063,0,0,0,0,0
+Florinda Cáceres-Ayala,pedroteresita@example.org,2024-10-19,¡Gana dinero rápido!,1229,0,3,1,1,0
+Quique Ildefonso Tomé Benavides,ismaelcal@example.com,2025-02-01,Premio en efectivo,817,1,3,1,1,0
+Carmelo Sanchez-Campoy,izaragoza@example.net,2024-08-16,Premio en efectivo,1111,1,3,1,1,1
+Emilia Josefina Salvà Folch,puighumberto@example.com,2024-01-07,¡Responde ahora!,1295,0,3,1,1,0
+Eloísa Sebastián Font,jenniferlerma@example.com,2024-12-29,Informe mensual,1296,0,0,0,0,0
+León Gargallo Guijarro,emilianoferran@example.com,2023-08-30,Agenda semanal,899,1,1,0,0,0
+Marta Sanjuan Lloret,qpinto@example.org,2024-10-31,Agenda semanal,1347,0,1,0,0,0
+Azahar Salvà Fiol,gabriel92@example.net,2025-01-04,Reporte de ventas,886,0,1,0,0,0
+Belen Corral-Álamo,jose-miguelnavarrete@example.com,2024-06-09,Plan de trabajo,1120,0,0,0,0,0
+Aitana Granados-Anglada,felipemarcos@example.net,2024-06-13,Lista de asistencia,1199,1,1,0,0,0
+Jenny de Hoz,bdiaz@example.com,2024-11-27,¡Gana dinero rápido!,1305,0,3,1,1,1
+Isaac Gámez,calatayudbonifacio@example.com,2024-09-15,¡Última oportunidad!,1060,0,2,1,1,1
+Natalia Arco Valverde,wosuna@example.net,2024-04-09,Recibe tu dinero,1047,1,2,1,1,0
+Yago Saldaña Robles,fannycarrera@example.org,2024-05-13,Agenda de actividades,1063,0,1,0,0,0
+Clotilde Carvajal Alvarez,luissotelo@example.org,2025-02-15,Oferta exclusiva para ti,1331,1,3,1,1,1
+Jacinta Bertrán Rodrigo,octavio94@example.net,2024-09-30,Premio asegurado solo hoy!,1073,0,5,1,1,1
+Victor Manuel Dionisio Mas Segarra,maria31@example.net,2023-11-08,Recibe tu dinero,1275,0,2,1,1,1
+Rubén Sales Barrios,jose63@example.net,2024-10-08,Informe trimestral,878,0,1,0,0,0
+Aurelio de Bayo,pizarrochuy@example.com,2025-05-15,Recordatorio de pago,891,1,1,0,0,0
+Apolonia Chaves Morillo,nevadocosme@example.org,2024-05-24,¡Gana un iPhone!,1009,0,5,1,1,1
+René Pujol Fuertes,ferreraleocadia@example.org,2024-05-15,¡Responde ahora!,942,2,5,1,1,1
+Lucía Luciana Soler Bautista,arielalmagro@example.com,2023-12-24,Transferencia pendiente,861,0,4,1,1,1
+Loreto Luque Avilés,fitogisbert@example.org,2025-02-08,Informe mensual,1201,0,0,0,0,0
+Pía Talavera,mperello@example.com,2025-05-12,Minuta de reunión,1352,0,0,0,0,0
+Oriana Planas Varela,rosalinda08@example.org,2025-01-01,Informe mensual,1355,0,1,0,0,0
+Ani Molina Belmonte,lilianaangulo@example.net,2024-07-21,Dinero fácil y rápido,1292,1,3,1,1,1
+Tere Jimenez Sevilla,alejandro70@example.org,2023-12-28,Lista de asistencia,892,1,1,0,0,0
+Felisa Quintero Palomares,jenny41@example.net,2024-01-11,Cita médica,1109,0,1,0,0,0
+Tania Campo Sureda,maximaflor@example.org,2024-01-20,Minuta de reunión,954,0,1,0,0,0
+Elpidio Pozo,genoveva32@example.com,2024-08-06,Plan de trabajo,804,0,0,0,0,0
+Marc del Segovia,filomenaamores@example.net,2024-01-14,Plan de trabajo,1298,0,1,0,0,0
+Pelayo Coll Olivares,xguzman@example.org,2023-10-02,Premio en efectivo,989,0,4,1,1,1
+Jacinta Aranda Ariño,montserrataviles@example.net,2025-04-06,Premio en efectivo,824,1,5,1,1,0
+Inmaculada Mateo,josefina42@example.org,2024-02-29,¡Has sido seleccionado!,802,1,4,1,1,1
+Evangelina Morera Tirado,irmaferreras@example.net,2023-09-23,Recibe tu dinero,1361,0,3,1,1,0
+Ceferino Pinilla Segura,lupita84@example.org,2024-07-28,Agenda semanal,880,1,1,0,0,0
+Gracia Roselló Isern,inigo79@example.net,2024-09-07,Reporte de ventas,890,0,0,0,0,0
+Esteban Almazán Rosales,claudia32@example.com,2024-01-22,Recibe tu dinero,1349,0,3,1,1,1
+Carlota Colom Muro,suarezmarcia@example.com,2024-05-12,Cita médica,1201,0,0,0,0,0
+Domingo Fábregas,solisjorge@example.com,2025-02-15,Premio en efectivo,951,1,2,1,1,1
+Viviana Zurita-Jurado,tburgos@example.com,2025-05-19,¡Gana un iPhone!,933,1,3,1,1,1
+Matilde Lamas Olivé,echeverriaismael@example.net,2025-04-10,¡Gana dinero rápido!,1315,1,2,1,1,1
+Bibiana Corbacho Córdoba,loretovergara@example.org,2024-05-22,Cita médica,1196,0,1,0,0,0
+Lucho Jordán Alberto,xverdu@example.com,2024-11-07,Cita médica,1243,0,0,0,0,0
+Poncio Conde Donoso,artigasgervasio@example.com,2024-12-31,Plan de actividades,1197,0,0,0,0,0
+Benito Colomer Cornejo,cardenasisidora@example.com,2024-11-15,Oferta exclusiva para ti,824,1,4,1,1,1
+Nilda de Rivas,leon36@example.net,2024-10-10,Premio asegurado solo hoy!,1128,0,4,1,1,0
+Andrés Roberto Talavera Cortés,fcarvajal@example.net,2025-08-22,Informe trimestral,1359,0,1,0,0,0
+Lucas Canales Frutos,sonia40@example.net,2023-12-18,Lista de asistencia,1308,1,0,0,0,0
+Eleuterio Vara Benet,eva07@example.org,2024-01-29,¡Responde ahora!,1243,2,2,1,1,0
+Javiera Bonet Pintor,zorrillairis@example.org,2023-12-21,Oferta exclusiva para ti,1157,2,2,1,1,1
+Viviana Menendez Mercader,bantunez@example.com,2025-03-30,¡Última oportunidad!,1218,1,5,1,1,0
+Eliana Aguilera Quirós,xbarba@example.net,2023-09-30,Recibe tu dinero,1036,2,5,1,1,0
+Ester Verdugo Saldaña,javi41@example.com,2023-10-11,Premio en efectivo,1174,0,2,1,1,1
+Bernardita del Santamaría,carvajalsimon@example.com,2024-11-28,Dinero fácil y rápido,1166,1,4,1,1,1
+Jose Francisco del Ríos,mesaanastasia@example.org,2025-06-12,¡Gana dinero rápido!,1038,1,4,1,1,0
+Roldán Rojas Calderón,benjamin40@example.net,2024-12-12,Premio asegurado solo hoy!,1035,2,4,1,1,1
+Armida Llanos,hpavon@example.com,2024-04-28,Transferencia pendiente,1099,2,2,1,1,1
+Rico del Palmer,montanaoctavia@example.com,2025-03-08,Plan de actividades,991,0,1,0,0,0
+Hernán Bonet Blanco,vito75@example.net,2023-10-30,Reporte de ventas,1306,0,1,0,0,0
+Regina Parejo Puente,barberoolivia@example.com,2025-01-29,Plan de actividades,1061,0,1,0,0,0
+Saturnino Abella Diéguez,garciawilfredo@example.com,2024-12-31,Transferencia pendiente,1395,1,5,1,1,1
+Marina Teresa Ordóñez Guardiola,rmontero@example.org,2023-12-03,Cita médica,970,0,1,0,0,0
+Celia Mena Sala,fito91@example.org,2025-03-01,Recibe tu dinero,1151,1,3,1,1,0
+María Ángeles Palomino Alarcón,ecervera@example.net,2025-06-04,Lista de asistencia,949,0,0,0,0,0
+Silvia de Morillo,pacifica79@example.net,2023-12-28,Cita médica,1003,0,0,0,0,0
+Conrado Gaspar Morata Gonzalez,guillenherberto@example.com,2023-11-14,Premio asegurado solo hoy!,1142,0,4,1,1,1
+Adoración Roda Antón,roquemanso@example.org,2024-04-20,Dinero fácil y rápido,941,0,3,1,1,0
+Abel del Esparza,ines96@example.com,2025-01-04,¡Última oportunidad!,1079,1,5,1,1,1
+Rafa Danilo Morata Garay,jose-angel56@example.org,2024-09-20,Agenda semanal,914,0,0,0,0,0
+Ángela Feliu Leal,matamarino@example.com,2025-07-17,Premio asegurado solo hoy!,858,0,5,1,1,1
+Emiliano Samu Alegre Maza,navarretegoyo@example.com,2023-11-22,Recordatorio de pago,1253,0,1,0,0,0
+Néstor Blazquez Velasco,guiomarcamps@example.com,2023-10-05,Lista de asistencia,1036,0,0,0,0,0
+Pedro Acevedo Fabregat,ogargallo@example.com,2024-02-16,Agenda de actividades,971,0,1,0,0,0
+Roberta Borja Marquez,milagrosgilabert@example.com,2024-10-22,Transferencia pendiente,937,2,3,1,1,0
+Martina Febe Aguado Meléndez,cponce@example.net,2024-04-24,Dinero fácil y rápido,1107,2,2,1,1,1
+Paco Cobos Uribe,maribel43@example.com,2025-03-03,¡Has sido seleccionado!,1299,0,3,1,1,0
+Lucía de Hernando,damianbarcelo@example.net,2024-12-18,Oferta exclusiva para ti,1251,2,5,1,1,0
+Cirino de Carro,plinioamigo@example.net,2024-05-25,¡Última oportunidad!,1007,1,5,1,1,1
+Marcos Benito Lopez,emelina50@example.net,2024-12-07,Premio asegurado solo hoy!,1300,1,2,1,1,1
+Cecilia Rosselló Ballesteros,candelas93@example.org,2025-08-10,Informe mensual,1221,0,0,0,0,0
+Sandra del Moya,wmerino@example.com,2025-04-05,Dinero fácil y rápido,1381,0,4,1,1,0
+Ruperta Valencia Canals,norbertoberenguer@example.com,2023-08-30,Agenda de actividades,1114,1,0,0,0,0
+Alondra Borrego Moles,eroca@example.org,2024-07-07,¡Responde ahora!,1312,0,3,1,1,1
+Milagros de Peñas,ssomoza@example.net,2025-01-08,Informe mensual,810,0,1,0,0,0
+Patricia Ponce-Quintana,flavioreguera@example.com,2023-09-16,Recordatorio de pago,1189,1,0,0,0,0
+Elisabet Leonor Lluch Delgado,tcadenas@example.net,2025-08-16,¡Has sido seleccionado!,921,2,5,1,1,0
+Felipa Vendrell,agustinaaragon@example.com,2024-11-01,Reporte de ventas,906,0,1,0,0,0
+Amado Rius,carmina15@example.com,2025-08-16,Recordatorio de pago,937,0,1,0,0,0
+Juanito de Mendizábal,eladiorobles@example.com,2023-09-06,Informe trimestral,1275,0,1,0,0,0
+Rogelio Bayona Laguna,ojedaprimitivo@example.com,2024-02-26,¡Gana un viaje!,1389,0,2,1,1,1
+Liliana Gomis Arjona,chucho70@example.org,2024-09-22,Lista de asistencia,1167,1,1,0,0,0
+Victor Coronado Villa,julio-cesarbellido@example.org,2023-10-09,Premio asegurado solo hoy!,931,1,3,1,1,1
+Febe de Román,amayapablo@example.com,2024-04-24,Informe mensual,1160,0,0,0,0,0
+Roberto Páez Cabañas,yquesada@example.net,2024-11-13,¡Gana un viaje!,867,0,4,1,1,1
+Rocío Varela-Valcárcel,qosuna@example.org,2025-05-02,¡Gana un viaje!,1323,0,5,1,1,1
+Bernardino Yuste Rosa,caridadsantos@example.com,2025-02-11,¡Gana dinero rápido!,1117,0,4,1,1,1
+Dominga Bas Manuel,herminia23@example.net,2025-01-02,Agenda semanal,1385,0,1,0,0,0
+Régulo Lucas Losa,gracianapellicer@example.net,2023-12-27,¡Gana un viaje!,1183,2,3,1,1,1
+Jeremías Haro Falcó,colljovita@example.org,2023-10-12,Reunión semanal,1250,0,0,0,0,0
+Juan Luis del Montes,turyesica@example.org,2024-07-06,Agenda semanal,893,0,0,0,0,0
+Jose Antonio Roura Bas,jorge25@example.com,2023-11-22,Cita médica,1187,0,1,0,0,0
+Raquel Camacho-Morata,cloe06@example.com,2025-05-31,¡Responde ahora!,1087,2,5,1,1,1
+Jose Ignacio Bejarano Casares,romeunestor@example.com,2024-09-25,Premio asegurado solo hoy!,1261,2,5,1,1,1
+Valeria Mayol Salazar,wsaldana@example.org,2024-05-31,¡Gana un iPhone!,945,1,3,1,1,0
+Judith Cabañas-Bermejo,greal@example.com,2024-09-25,Reunión semanal,1089,0,0,0,0,0
+Juliana Ramis Checa,xcarrera@example.com,2024-04-18,Agenda semanal,910,0,0,0,0,0
+Luis Miguel Solsona Carvajal,menriquez@example.com,2024-07-31,Oferta exclusiva para ti,938,1,2,1,1,0
+Alejo Máximo Ballester Arjona,wpou@example.com,2024-10-19,¡Has sido seleccionado!,805,0,4,1,1,1
+Felisa Amaya Nieto Andreu,anitamuro@example.com,2024-05-06,Transferencia pendiente,944,1,5,1,1,1
+Paco Sanjuan,amando37@example.org,2024-03-13,Plan de actividades,1169,1,0,0,0,0
+Roldán Zorrilla Cáceres,adoracioncanizares@example.net,2025-02-24,Recibe tu dinero,1219,1,5,1,1,0
+Sarita Jimena Alemán Andres,amillan@example.net,2025-02-09,¡Gana un viaje!,1191,1,2,1,1,1
+Ale Font Contreras,alcidesnavarrete@example.com,2024-09-12,Agenda semanal,1183,0,0,0,0,0
+Ignacia Carretero Quintero,candelasolivares@example.org,2024-09-10,¡Gana un iPhone!,1305,1,5,1,1,1
+Plinio Barco Miguel,solermiriam@example.net,2025-02-26,Recibe tu dinero,813,2,2,1,1,1
+Salud Casanovas-Paz,solsonasabas@example.org,2024-04-11,¡Gana un iPhone!,1326,0,2,1,1,1
+Óscar Alfredo Mateu Caro,ricarda53@example.net,2025-02-04,Reunión semanal,1076,0,1,0,0,0
+Germán Roda Villena,cagudo@example.org,2024-08-28,Transferencia pendiente,1129,2,5,1,1,1
+Clemente Pomares Seguí,jespada@example.com,2023-10-04,Lista de asistencia,1399,0,0,0,0,0
+Victor Manuel Gomis Sanabria,boixflorentino@example.org,2024-06-06,Recordatorio de pago,906,1,0,0,0,0
+Celia Castellanos,benaventjuan-bautista@example.org,2024-05-04,Premio asegurado solo hoy!,984,0,2,1,1,1
+Juan Francisco Aller-Piñeiro,rtejera@example.org,2023-11-10,¡Última oportunidad!,1264,1,2,1,1,1
+María Fernanda Cintia Guzmán Flores,jmarco@example.com,2025-04-08,Plan de trabajo,958,1,1,0,0,0
+Aurora Corbacho-Roma,guillenbalduino@example.net,2024-11-09,Lista de asistencia,887,1,0,0,0,0
+Ruperto Ribera Prado,coronainfante@example.com,2024-06-25,Minuta de reunión,1262,1,1,0,0,0
+Maura Agustí,nerea37@example.org,2025-01-18,Reporte de ventas,1193,0,1,0,0,0
+Marcio Loreto Pera Céspedes,rutharnau@example.com,2024-09-13,Reporte de ventas,1084,1,0,0,0,0
+Jordi Villa Vallés,francisco-jose28@example.org,2025-06-02,¡Gana dinero rápido!,844,1,5,1,1,0
+Rolando Uriarte,pouangelina@example.org,2025-08-14,Transferencia pendiente,1168,2,4,1,1,1
+Nydia Vera,sconde@example.com,2025-04-22,Reunión semanal,1160,0,1,0,0,0
+Héctor Peláez,rrocha@example.net,2023-11-24,Recibe tu dinero,944,1,4,1,1,0
+Régulo Torrent Gallart,cruz07@example.net,2024-07-24,Plan de actividades,926,0,1,0,0,0
+Eladio Robledo,inigo43@example.org,2024-12-02,¡Gana un iPhone!,930,0,2,1,1,0
+Noelia Santos Beltran,hipolito34@example.com,2025-01-28,Recordatorio de pago,1242,1,0,0,0,0
+Vicenta Duarte Rovira,clarisaaliaga@example.com,2025-04-02,Lista de asistencia,822,0,1,0,0,0
+Custodia Arias Olivera,omarcortes@example.com,2024-10-26,Reporte de ventas,1394,0,1,0,0,0
+Rosaura Chaparro,jortuno@example.com,2025-01-21,Cita médica,1337,0,0,0,0,0
+Josep Mateos Lerma,rocionieto@example.org,2024-05-28,Informe trimestral,1029,0,1,0,0,0
+Rufino Perez Fuertes,turena@example.org,2024-09-15,Lista de asistencia,1266,0,1,0,0,0
+Inmaculada Cabrero-Alberto,jenniferbarcena@example.org,2023-10-14,¡Gana un viaje!,1250,0,4,1,1,1
+Serafina Catalán Lozano,angladajaime@example.org,2023-12-17,Reporte de ventas,1270,0,1,0,0,0
+Nazaret Tejero Perales,carmelaconde@example.org,2024-04-18,Plan de actividades,1337,0,0,0,0,0
+Carmelo Roig Marco,lupitaescriva@example.com,2024-11-08,Recordatorio de pago,1256,0,1,0,0,0
+Ovidio Hervia Luna,porfirioagudo@example.net,2023-09-04,¡Has sido seleccionado!,881,1,4,1,1,1
+Camilo Aller Mariscal,torrensrenato@example.net,2023-11-05,¡Gana un iPhone!,1310,1,2,1,1,1
+Consuelo Sáez Ramirez,migueladela@example.net,2025-02-01,Agenda de actividades,1238,0,0,0,0,0
+Fernanda de Cuéllar,cuervoelena@example.com,2025-05-14,¡Gana dinero rápido!,1184,2,2,1,1,0
+Juanita Ribes Adadia,ricardaporcel@example.net,2024-01-12,Agenda semanal,819,0,0,0,0,0
+Emilio Crespi Escamilla,emilia27@example.com,2025-02-20,Minuta de reunión,1347,0,0,0,0,0
+Julia Cerezo Pineda,cortessarita@example.net,2024-11-30,Oferta exclusiva para ti,1192,0,4,1,1,1
+Viviana del Bertrán,fbaron@example.net,2024-11-09,Cita médica,1051,0,1,0,0,0
+Francisco Albero Casares,tejedoraroa@example.net,2024-02-03,¡Gana dinero rápido!,1292,2,2,1,1,0
+Marcelo Carranza Mancebo,cruzgomez@example.net,2023-10-23,¡Gana un iPhone!,978,0,4,1,1,1
+Arturo Luis Ángel Alsina Verdugo,bonifacio85@example.com,2025-08-11,Informe mensual,1017,0,1,0,0,0
+Mercedes Barrera Reig,torrensbernardita@example.org,2025-05-02,Reunión semanal,1338,0,1,0,0,0
+Ciriaco Flavio Vega Alcolea,abigailnunez@example.org,2025-05-20,Dinero fácil y rápido,1255,2,4,1,1,0
+Gabriela del Camps,kesteve@example.net,2025-01-06,Recibe tu dinero,1205,1,4,1,1,1
+Nayara del Gabaldón,bayomaxi@example.net,2024-08-05,Recordatorio de pago,1234,1,0,0,0,0
+Borja del Abril,jhurtado@example.com,2025-01-12,Premio asegurado solo hoy!,1142,0,2,1,1,1
+Oriana Solera Águila,lupe19@example.net,2024-04-19,Agenda semanal,1282,0,1,0,0,0
+Noé Castejón Andres,guardiolaelodia@example.org,2024-03-15,Premio asegurado solo hoy!,912,1,2,1,1,1
+Vanesa Bernal Barragán,ycarpio@example.org,2025-07-27,¡Última oportunidad!,1070,2,4,1,1,0
+Esteban Wálter Perea Raya,sebastian87@example.com,2023-11-19,Informe trimestral,1070,0,0,0,0,0
+Américo Galiano Larrea,carmelobuendia@example.net,2025-04-01,¡Responde ahora!,1081,1,2,1,1,1
+Pancho Báez Arnaiz,alexandraclavero@example.net,2024-05-26,¡Última oportunidad!,1227,1,4,1,1,1
+Nadia Mena Gutiérrez,iris78@example.com,2024-12-22,Informe mensual,949,0,1,0,0,0
+Eliseo Roma,ursulacastells@example.net,2025-07-29,Premio en efectivo,1103,1,4,1,1,0
+Galo Pascual Palomar Castejón,lgibert@example.org,2023-09-07,¡Gana un iPhone!,875,0,5,1,1,1
+Camilo del Rodríguez,edgardoaviles@example.net,2025-08-03,Dinero fácil y rápido,828,1,5,1,1,1
+Bárbara Ureña,pacificamarques@example.net,2024-10-03,¡Has sido seleccionado!,1288,0,2,1,1,1
+Armando Guardiola,elpidio09@example.net,2025-06-19,Premio asegurado solo hoy!,1161,1,5,1,1,0
+Ruperto Bustamante Moliner,ramonrenato@example.com,2024-08-11,Reunión semanal,1004,0,1,0,0,0
+Bernabé Murillo Cabeza,santos42@example.net,2025-01-02,Cita médica,999,0,1,0,0,0
+Benigno Alcántara Solsona,julieserrano@example.org,2025-02-02,¡Gana un iPhone!,1012,0,5,1,1,0
+Jorge Alvarado Serna,estela74@example.org,2023-09-23,Agenda semanal,1042,0,1,0,0,0
+Ainara de Ramis,jmanzanares@example.org,2025-02-24,Recordatorio de pago,1340,0,0,0,0,0
+Américo Beltrán,tbello@example.net,2024-12-11,Plan de trabajo,1293,0,0,0,0,0
+Amancio González Barrios,jose-carlos08@example.org,2025-04-23,¡Gana un viaje!,921,0,2,1,1,1
+Teresa Ariño,ksaenz@example.net,2024-05-28,¡Has sido seleccionado!,821,2,5,1,1,1
+Amanda Giner Farré,mireiasantamaria@example.net,2024-01-17,¡Gana un viaje!,1364,2,3,1,1,1
+Elisabet Cañas-Alarcón,octavia78@example.org,2024-11-17,Premio en efectivo,1253,1,5,1,1,1
+Claudia de Mayoral,odalys28@example.org,2024-10-28,Plan de trabajo,990,0,1,0,0,0
+Adora Calvet Barranco,espiridion37@example.net,2024-05-21,¡Has sido seleccionado!,1354,0,2,1,1,1
+Carolina Pastor Mateos,jerezaura@example.org,2025-08-03,Lista de asistencia,1089,0,1,0,0,0
+José Luis Goicoechea-Torres,qpardo@example.org,2024-02-07,¡Has sido seleccionado!,1048,0,4,1,1,1
+Calisto Diez Montero,feliciaguitart@example.org,2025-06-01,¡Has sido seleccionado!,1110,2,3,1,1,0
+Belen Trini Vera Cabañas,julie84@example.com,2024-03-03,Agenda semanal,902,0,0,0,0,0
+Carmen Ortiz Gisbert,losapiedad@example.net,2025-02-28,¡Gana un iPhone!,1128,2,2,1,1,1
+Angelino de Sebastián,ramon80@example.org,2024-05-23,Plan de actividades,969,0,1,0,0,0
+Rufina Muñoz-Campos,ffuente@example.com,2025-03-22,¡Has sido seleccionado!,884,2,2,1,1,0
+Guiomar Sevilla Salinas,gasparbeltran@example.net,2025-03-25,¡Gana dinero rápido!,912,0,5,1,1,1
+Ale de Jáuregui,ambar04@example.org,2024-02-20,¡Gana un iPhone!,924,2,4,1,1,1
+Jessica Requena Maestre,silvestre17@example.com,2024-11-23,Agenda semanal,1243,0,0,0,0,0
+Ángeles Fuster Perez,bejaranocecilia@example.com,2025-03-22,Agenda de actividades,1128,0,0,0,0,0
+Edu Mora Moraleda,maciasrosenda@example.com,2023-12-08,Transferencia pendiente,1106,1,2,1,1,0
+Paulino de Guerrero,gervasioraya@example.com,2024-12-29,Recibe tu dinero,1111,0,3,1,1,1
+María Marta Valderrama Jordán,alicia16@example.com,2025-03-21,¡Gana un viaje!,1055,2,5,1,1,1
+Amador Bejarano-Orozco,julieta59@example.org,2023-09-10,Oferta exclusiva para ti,1304,1,5,1,1,0
+Claudia Segura Rosa,nuria95@example.org,2024-02-15,Reporte de ventas,1154,0,0,0,0,0
+Lorena Belda Pintor,salommarianela@example.com,2024-05-03,Lista de asistencia,1007,0,1,0,0,0
+Florentina Rey Atienza,rvilla@example.org,2024-10-04,Recordatorio de pago,949,0,1,0,0,0
+Chita Baños Barreda,npalomo@example.com,2025-08-20,¡Gana dinero rápido!,1050,2,3,1,1,1
+Felipe Fonseca-Valls,geraldo43@example.net,2025-04-09,¡Última oportunidad!,931,1,2,1,1,0
+Balduino de Pintor,nazorin@example.com,2023-10-31,Premio en efectivo,1071,0,2,1,1,1
+Marta Villalobos Luna,teofiloiniesta@example.org,2024-11-29,Reporte de ventas,879,0,0,0,0,0
+Buenaventura Enríquez,gallardocarlos@example.net,2025-08-14,¡Responde ahora!,936,0,4,1,1,1
+Galo Hidalgo Adadia,tnaranjo@example.net,2025-06-28,Premio asegurado solo hoy!,1382,2,3,1,1,1
+Sofía Coca Espada,hperea@example.com,2025-01-10,Informe trimestral,894,1,1,0,0,0
+Jose Luis Montenegro Campo,amatfederico@example.net,2024-01-31,Dinero fácil y rápido,1078,0,2,1,1,1
+René Piña Gibert,jleon@example.org,2025-08-07,¡Has sido seleccionado!,1280,2,4,1,1,1
+Merche Sureda Valero,calatayudtristan@example.com,2024-10-03,Reunión semanal,1259,0,0,0,0,0
+Pía Zamorano Feliu,amancio07@example.com,2025-01-19,Recordatorio de pago,1187,1,1,0,0,0
+Pascuala Bernad,emilianaraya@example.com,2025-02-03,Minuta de reunión,871,0,0,0,0,0
+Valentina Rosa Uriarte,zaidacanellas@example.net,2023-10-23,Transferencia pendiente,892,2,4,1,1,0
+Gonzalo Acedo Múñiz,villenaesther@example.org,2024-11-08,Oferta exclusiva para ti,1093,2,3,1,1,1
+Rosalva Zabaleta Barroso,nicolas08@example.org,2023-09-01,¡Has sido seleccionado!,1335,0,5,1,1,1
+Florencia Flor Arteaga,saturnina86@example.net,2024-04-06,Agenda de actividades,1290,0,0,0,0,0
+Aroa Figuerola,rosendatoro@example.org,2024-12-15,¡Has sido seleccionado!,1128,1,4,1,1,1
+Delia Iniesta Aragón,isalgado@example.com,2025-01-31,Cita médica,973,0,0,0,0,0
+Morena Maldonado Mulet,gabriel47@example.com,2025-02-25,¡Gana dinero rápido!,1231,0,2,1,1,1
+Valerio Cuervo Contreras,esalcedo@example.org,2024-01-27,Informe mensual,902,0,0,0,0,0
+Cándido de Lucena,jimena92@example.org,2024-01-04,Agenda de actividades,1328,0,1,0,0,0
+Pili Perales Borrás,msimo@example.org,2024-05-14,Dinero fácil y rápido,959,1,4,1,1,1
+Sebastián Ferreras Aguilera,cepedabernabe@example.com,2024-06-24,Oferta exclusiva para ti,1125,0,5,1,1,1
+Lola Encarna Guillen Benavent,fjimenez@example.org,2024-01-04,Agenda semanal,1285,1,1,0,0,0
+Casandra Borja Llano,balmazan@example.net,2025-04-22,¡Gana dinero rápido!,1260,1,2,1,1,1
+Victorino Pinedo Verdú,bustosmanu@example.org,2025-01-11,Reporte de ventas,909,0,0,0,0,0
+Rosalva Pili Huerta Casals,ecollado@example.net,2024-08-25,Premio asegurado solo hoy!,1061,1,5,1,1,1
+Adelina Sarmiento Garay,hidalgoceferino@example.org,2025-01-08,Reunión semanal,811,1,1,0,0,0
+Jovita Garcia,calderonsusana@example.com,2023-10-20,¡Has sido seleccionado!,944,0,3,1,1,0
+Severiano Corbacho Pulido,suarezabigail@example.com,2025-08-01,Oferta exclusiva para ti,954,0,3,1,1,1
+Domingo Batalla,luperos@example.com,2024-05-19,¡Responde ahora!,1220,1,5,1,1,1
+África Agustí Benavente,gertrudisfabra@example.net,2025-07-27,¡Has sido seleccionado!,932,1,5,1,1,0
+Candelaria Costa Querol,maxima15@example.com,2025-03-09,Informe mensual,1111,0,1,0,0,0
+Jennifer Lerma Cózar,jennifer23@example.com,2024-07-23,¡Responde ahora!,1327,2,3,1,1,0
+Febe Plana Marquez,pilar11@example.com,2024-03-10,Plan de actividades,1138,0,0,0,0,0
+Leyre Grau Ledesma,dpalau@example.org,2024-07-30,¡Última oportunidad!,1118,2,5,1,1,0
+Bibiana Heras Pineda,comasgema@example.org,2024-05-08,Agenda semanal,1010,0,1,0,0,0
+Natividad Ugarte Alcázar,zoraidaexposito@example.org,2025-03-22,Reunión semanal,1093,0,1,0,0,0
+Candelario del Badía,kmontero@example.org,2024-08-17,¡Has sido seleccionado!,999,0,4,1,1,0
+Celso Campo,linaresdora@example.net,2025-04-24,Plan de trabajo,1267,0,1,0,0,0
+Griselda Villalobos Chaves,gilabertcandida@example.net,2024-06-21,Dinero fácil y rápido,862,0,2,1,1,1
+Juan Marti,brionesvictor@example.org,2024-05-08,Lista de asistencia,975,1,1,0,0,0
+Gabino Torre-Lara,vcarlos@example.net,2024-11-15,Plan de trabajo,1023,0,1,0,0,0
+Ciriaco Huerta Bauzà,joaquina32@example.net,2024-06-30,Lista de asistencia,889,0,0,0,0,0
+Marta Montes Fiol,lope47@example.com,2024-12-17,Cita médica,1369,0,0,0,0,0
+Máximo Agustín Prats,gdonoso@example.org,2025-07-05,Reunión semanal,862,0,0,0,0,0
+Esther Guillen Romero,inmaculadasans@example.org,2024-03-10,Transferencia pendiente,1105,1,4,1,1,0
+Ale Farré-Alba,gabriel57@example.com,2023-10-01,Premio en efectivo,1219,0,2,1,1,1
+Jovita Alsina Rincón,lobatofelipa@example.com,2024-06-23,Lista de asistencia,1184,0,0,0,0,0
+Máximo Bolaños Cámara,leonardooliva@example.com,2023-10-07,¡Gana un iPhone!,855,2,3,1,1,1
+Geraldo Beltrán-Bou,ivan59@example.org,2024-11-23,Plan de actividades,1189,1,1,0,0,0
+Augusto Casas Martí,jarahortensia@example.net,2023-11-21,Premio en efectivo,1245,0,5,1,1,1
+Corona Madrigal Jordá,santosvilalta@example.com,2023-10-04,Premio en efectivo,1197,2,4,1,1,1
+Felicidad Camino Arnau,calegre@example.org,2024-04-01,Informe trimestral,1053,0,1,0,0,0
+Anselma Carbó Rovira,jaime67@example.org,2023-12-19,Agenda semanal,1282,0,1,0,0,0
+Visitación Pascual,cduarte@example.org,2024-06-10,Informe mensual,1199,0,0,0,0,0
+Nando Soto Otero,robledolaura@example.org,2025-03-22,¡Gana un viaje!,909,1,4,1,1,1
+Emiliano Quero Escribano,ikercolom@example.org,2024-08-24,Dinero fácil y rápido,1040,2,4,1,1,1
+Berta Boada Balaguer,gerardo09@example.org,2024-01-16,¡Gana un viaje!,1115,1,4,1,1,0
+Isidora del Olmedo,segismundoperalta@example.org,2024-09-01,¡Responde ahora!,1372,2,3,1,1,1
+Pepito Tejero Robledo,renataalcantara@example.com,2023-11-14,Plan de actividades,1171,0,1,0,0,0
+Fernando Solsona Piñeiro,cristian08@example.org,2024-04-16,Informe trimestral,1162,1,1,0,0,0
+Víctor Ramirez Ureña,leopoldocabrera@example.com,2024-08-28,¡Gana un iPhone!,989,1,3,1,1,1
+Ágata Jove-Franco,florencio49@example.com,2024-09-15,¡Gana dinero rápido!,1338,2,2,1,1,1
+Segismundo Márquez,josueayllon@example.net,2023-11-22,¡Gana un viaje!,1093,2,2,1,1,1
+Petrona Clotilde Sevilla Aragonés,figueroaheraclio@example.com,2024-03-30,Oferta exclusiva para ti,1236,0,3,1,1,1
+Ignacia Juan Carretero,eloisa90@example.org,2025-07-18,Plan de actividades,1001,1,1,0,0,0
+Germán Gárate,valencianopetrona@example.org,2024-07-07,Agenda semanal,1219,0,1,0,0,0
+Jesusa Valentín-Calatayud,sedanoconsuelo@example.org,2024-10-12,¡Última oportunidad!,904,0,5,1,1,1
+Virgilio Granados Sainz,pinillaclara@example.org,2024-12-17,Informe mensual,1077,0,1,0,0,0
+Jafet del Tello,benigna05@example.net,2024-05-01,Dinero fácil y rápido,1289,0,4,1,1,1
+Artemio Fabregat Navas,martinaanaya@example.com,2024-12-25,Reporte de ventas,1092,0,0,0,0,0
+Benigna Múgica-Guillén,godofredo97@example.net,2024-12-01,¡Gana un viaje!,1256,1,2,1,1,1
+Tiburcio Martín Amat Prats,soledadcabanillas@example.org,2024-12-24,Premio asegurado solo hoy!,1096,2,5,1,1,0
+Joan de Torrens,ncalderon@example.net,2024-12-25,Cita médica,1138,0,1,0,0,0
+Cayetana Duarte,heredialupe@example.net,2025-02-27,Dinero fácil y rápido,1352,2,2,1,1,0
+Teobaldo Montaña-Zamorano,eliseo72@example.org,2024-08-07,Cita médica,1256,0,0,0,0,0
+Samuel Cuéllar,zoraida30@example.com,2024-02-04,Lista de asistencia,1015,0,0,0,0,0
+Casandra de Lillo,sergioorozco@example.com,2025-01-14,Informe mensual,1055,0,1,0,0,0
+Teófilo Almeida Valentín,peraleva-maria@example.net,2024-05-11,¡Gana un iPhone!,1138,1,4,1,1,1
+Galo Manzanares Rius,mcolom@example.net,2024-10-15,Agenda semanal,1258,1,1,0,0,0
+Andrés Tapia-Castilla,fmayo@example.net,2025-01-17,Agenda semanal,1373,0,0,0,0,0
+Paca Quiroga Jara,murilloregulo@example.org,2023-11-19,¡Gana un iPhone!,878,0,5,1,1,1
+Román Romeu,vidal21@example.com,2023-11-04,Premio en efectivo,802,2,5,1,1,1
+Virgilio Salvador-Camps,tvalverde@example.net,2024-08-16,¡Responde ahora!,1316,0,3,1,1,1
+Anita Cano,rpena@example.net,2025-06-25,¡Última oportunidad!,1024,1,4,1,1,1
+Juan Bautista Torrijos Salom,svillegas@example.com,2025-01-27,Dinero fácil y rápido,1135,2,2,1,1,1
+Albano Vargas Pou,santiagomar@example.net,2024-12-12,Premio en efectivo,1150,2,2,1,1,1
+Pelayo Vega,casadolola@example.org,2025-07-23,Dinero fácil y rápido,1330,1,2,1,1,1
+Emigdio Redondo León,lunanoemi@example.com,2024-02-05,Plan de trabajo,1058,0,0,0,0,0
+Mireia Revilla Montes,luna61@example.net,2025-02-22,Plan de actividades,1104,0,1,0,0,0
+Daniela Sánchez,vtorrent@example.net,2024-01-29,Plan de trabajo,1251,0,0,0,0,0
+Mar Paredes,ytudela@example.net,2024-11-10,Oferta exclusiva para ti,1194,0,4,1,1,1
+Claudio Ureña Mayoral,oquiroga@example.org,2025-01-06,Premio en efectivo,938,2,3,1,1,1
+Eustaquio Trillo Clemente,abadteo@example.net,2024-07-29,Premio en efectivo,1115,1,5,1,1,1
+Matilde Sastre Duran,fvina@example.com,2024-02-11,Agenda de actividades,1311,0,1,0,0,0
+Moisés Cózar,armaseusebia@example.org,2025-06-13,Transferencia pendiente,905,1,2,1,1,0
+Otilia Fiol Caparrós,mparra@example.com,2024-05-10,Recordatorio de pago,1035,0,0,0,0,0
+Eliana Ripoll Tejero,iris89@example.com,2024-11-17,Oferta exclusiva para ti,970,1,5,1,1,1
+Carina Guzman Cerdá,candelaherrero@example.org,2024-06-21,Plan de actividades,1385,0,0,0,0,0
+Loreto Borrego Villaverde,fatima28@example.com,2025-07-09,¡Última oportunidad!,1267,0,5,1,1,1
+Saturnina Arellano Oliver,eligio70@example.org,2023-11-15,Cita médica,979,0,0,0,0,0
+Clarisa Villalba Roca,prudenciaacosta@example.org,2024-05-15,¡Responde ahora!,920,1,2,1,1,0
+Iván Campo Pascual,juanita33@example.net,2024-06-24,Informe mensual,1242,0,1,0,0,0
+Damián del Adán,florinda00@example.org,2025-06-21,Informe trimestral,1136,0,0,0,0,0
+Adolfo Samper-Lerma,vbarrios@example.org,2024-06-04,Cita médica,1254,0,1,0,0,0
+Zoraida Aroa Alvarez Morata,galanmacario@example.org,2024-11-06,Informe mensual,1232,0,0,0,0,0
+Loreto Garzón Lobo,varelamarcio@example.net,2025-03-19,Oferta exclusiva para ti,1281,1,5,1,1,1
+Raimundo de Morales,olallacastillo@example.org,2023-10-20,¡Responde ahora!,991,0,2,1,1,0
+Calista Simó Alemán,atienzanoa@example.net,2025-03-05,Oferta exclusiva para ti,1181,0,2,1,1,1
+Evelia Oliva Quintana,montserratjennifer@example.org,2025-05-31,Transferencia pendiente,1353,0,4,1,1,1
+Cándido Abad,qtapia@example.com,2024-06-03,¡Has sido seleccionado!,1148,0,3,1,1,1
+Duilio García Plaza,linofiol@example.com,2023-10-19,¡Has sido seleccionado!,1138,2,2,1,1,1
+Bárbara Lucas,guardiaosvaldo@example.com,2024-03-18,Dinero fácil y rápido,1264,2,4,1,1,0
+Paca Briones Falcón,nuria57@example.org,2024-05-03,Oferta exclusiva para ti,1311,1,3,1,1,1
+Hernán del Juan,cuestasamuel@example.org,2024-02-09,¡Última oportunidad!,1104,0,5,1,1,1
+Efraín Mosquera Ayuso,etelvinaalsina@example.com,2024-09-06,¡Responde ahora!,861,1,5,1,1,1
+Rosa Terrón Alberto,ruperto32@example.net,2025-07-03,¡Última oportunidad!,1052,1,5,1,1,1
+Ruperto Portero-Velasco,mbenavente@example.net,2025-01-16,Recibe tu dinero,885,1,3,1,1,1
+Eli Verdejo Huertas,titofranco@example.com,2024-04-05,¡Has sido seleccionado!,1398,2,2,1,1,1
+Carlos Barrio Ródenas,ignacia66@example.org,2025-02-20,Reunión semanal,1219,0,0,0,0,0
+Modesto Vicens Valenzuela,nfalco@example.org,2025-05-29,¡Responde ahora!,1272,0,2,1,1,1
+Alonso Donato Balaguer Jover,amador70@example.org,2023-11-02,Reporte de ventas,933,0,0,0,0,0
+Domitila Valero Cerezo,whervas@example.com,2024-01-21,Premio asegurado solo hoy!,1334,2,3,1,1,1
+Encarna Revilla Arco,ayalaartemio@example.net,2025-01-05,Oferta exclusiva para ti,1148,2,5,1,1,1
+Belen Borrell Vega,valcarcelnatividad@example.com,2024-07-02,Informe mensual,1131,0,1,0,0,0
+Jesús Ramón-Valbuena,eluis@example.net,2024-01-06,Recibe tu dinero,1182,0,3,1,1,1
+Sol Elisa Zaragoza Pina,velazquezasuncion@example.com,2024-02-12,¡Última oportunidad!,1177,1,2,1,1,1
+Armando Ribas Andreu,sofiamoliner@example.org,2024-05-31,Agenda semanal,1029,0,1,0,0,0
+Narcisa Esteban,rodolfojara@example.org,2024-06-04,Agenda semanal,1341,0,0,0,0,0
+Aarón Mateu Arnau,antonia74@example.com,2025-07-13,Dinero fácil y rápido,1014,1,2,1,1,1
+Fernanda Nebot Ordóñez,acostanoe@example.net,2024-07-29,Cita médica,1257,1,0,0,0,0
+Luis Ángel Jiménez Vega,gonzalopalma@example.net,2023-10-04,¡Gana un viaje!,1146,1,2,1,1,0
+Candelario Jáuregui-Vargas,riquelmejuan-manuel@example.org,2025-04-04,Plan de trabajo,1273,0,0,0,0,0
+Verónica Segarra Montes,bonifacio95@example.com,2024-07-30,Lista de asistencia,1366,0,1,0,0,0
+Amando Carranza Tejera,vilanovamaria-del-carmen@example.org,2025-08-01,Minuta de reunión,1133,0,1,0,0,0
+César Alfonso Villena,reinaldopuerta@example.com,2024-07-18,Recordatorio de pago,1096,0,0,0,0,0
+Isa de Salazar,pizarrorosario@example.net,2024-11-24,Agenda semanal,1215,0,0,0,0,0
+Lucía Armengol Ayala,fulgenciocarrion@example.net,2024-09-23,¡Última oportunidad!,1295,1,2,1,1,0
+Josefa Checa Alcalá,zaguilar@example.net,2024-09-20,Cita médica,895,0,0,0,0,0
+Verónica Carreño Osuna,xpardo@example.net,2024-05-29,Premio en efectivo,1368,0,2,1,1,0
+Gabriela Amat Viana,rosalinda19@example.com,2023-11-09,Premio asegurado solo hoy!,986,1,3,1,1,1
+Bernardo de Diego,herreraeusebio@example.com,2025-05-09,Plan de trabajo,1166,0,0,0,0,0
+Antonio Bello Ochoa,jaentomasa@example.org,2024-10-15,Informe mensual,1161,1,1,0,0,0
+Paulino Baró Aparicio,vcoca@example.net,2025-01-07,Agenda de actividades,830,0,1,0,0,0
+Georgina Laguna Montenegro,elisabetcarbonell@example.net,2024-08-30,Dinero fácil y rápido,822,0,4,1,1,1
+Alexandra de Samper,ferrandezmaria-manuela@example.com,2023-12-07,Dinero fácil y rápido,1053,1,3,1,1,1
+Ainara Luís Viñas,nzabaleta@example.net,2025-06-20,Transferencia pendiente,931,1,4,1,1,1
+Dionisio Elías Núñez,nestevez@example.org,2024-12-02,Premio asegurado solo hoy!,893,2,4,1,1,1
+Leocadio Checa Ferrán,pepito58@example.net,2024-03-05,Plan de trabajo,1221,0,1,0,0,0
+Elías del Vizcaíno,jbautista@example.net,2024-01-25,¡Gana un iPhone!,1188,2,2,1,1,1
+Caridad de Castejón,baquerodorotea@example.org,2023-10-21,Informe trimestral,1357,0,1,0,0,0
+Salomé Ureña Hervia,canetefortunato@example.org,2024-01-13,¡Has sido seleccionado!,1039,2,5,1,1,1
+Félix Blanco Guerrero,vescriva@example.com,2024-06-23,¡Gana dinero rápido!,938,1,4,1,1,1
+Lucas Uriarte Suarez,molinamelania@example.org,2024-10-12,Reunión semanal,1167,0,0,0,0,0
+Anna Valbuena-Manrique,manola35@example.org,2023-09-23,Premio en efectivo,1028,2,2,1,1,0
+Rosaura Nayara Bonet Garmendia,armengolgaspar@example.com,2024-12-18,Dinero fácil y rápido,1192,1,5,1,1,0
+Jerónimo Real Losa,lastrateo@example.org,2025-06-06,Cita médica,1389,1,0,0,0,0
+Lucas Luque,emma36@example.com,2024-03-30,Reporte de ventas,1189,0,1,0,0,0
+Manu Alarcón,nereidarodrigo@example.com,2024-12-24,Recordatorio de pago,838,1,1,0,0,0
+Nicodemo Bauzà-Serrano,barohortensia@example.org,2024-06-02,Minuta de reunión,915,0,0,0,0,0
+Hernán Juan Francisco Cabezas Franch,ani35@example.net,2024-09-19,Plan de actividades,1093,1,0,0,0,0
+Ambrosio Isidro Benet Gómez,lisandrosandoval@example.com,2025-07-09,Oferta exclusiva para ti,1005,0,3,1,1,1
+Severino Bou García,ybotella@example.com,2024-09-20,Recibe tu dinero,1205,1,3,1,1,0
+Paloma Pujadas Silva,rosa72@example.com,2023-10-09,Dinero fácil y rápido,933,1,4,1,1,1
+Hortensia Galvez,chusllobet@example.org,2023-10-20,Transferencia pendiente,1178,2,2,1,1,1
+Cristian Valenciano-Andrade,crespinilo@example.com,2023-12-07,Premio en efectivo,1260,1,5,1,1,1
+José Manuel Javi Hervás Barón,zsabater@example.org,2024-07-18,Dinero fácil y rápido,982,0,5,1,1,1
+Lope Méndez Sebastián,loreto70@example.com,2024-10-27,Agenda de actividades,925,0,1,0,0,0
+Amando Narváez España,xochoa@example.net,2024-05-02,Recibe tu dinero,949,0,3,1,1,1
+Olalla Pedrero,acostaenrique@example.com,2024-11-12,Minuta de reunión,800,0,1,0,0,0
+Reyes de Vall,uvall@example.net,2024-08-11,Plan de actividades,1338,0,0,0,0,0
+Timoteo Segovia Anguita,matasregina@example.org,2024-02-29,Minuta de reunión,1354,0,0,0,0,0
+Iris Felicia Arnaiz Samper,orosello@example.com,2023-11-25,Lista de asistencia,810,0,0,0,0,0
+Clemente Mesa Bastida,borrascornelio@example.net,2024-07-08,Informe trimestral,1038,0,0,0,0,0
+Pío Jerez-Peñas,charoalsina@example.net,2025-08-27,¡Has sido seleccionado!,1036,1,4,1,1,0
+Che Hoyos,regulocerezo@example.net,2023-11-25,¡Responde ahora!,1171,1,2,1,1,1
+Amor de Roura,roperoeloisa@example.org,2024-11-08,Plan de actividades,1214,0,0,0,0,0
+Vito del Cervera,armidacarrillo@example.com,2024-05-28,Minuta de reunión,1290,0,0,0,0,0
+Charo Pedraza Mendoza,pelayo79@example.org,2025-04-30,Cita médica,951,0,0,0,0,0
+Jessica Ayala-Alvarado,baroteresita@example.net,2024-07-06,¡Has sido seleccionado!,1151,2,3,1,1,1
+José Antonio Barón Macías,maria-belen33@example.org,2024-08-10,Recordatorio de pago,892,1,1,0,0,0
+Gabriel Rosa Ribera,brigida39@example.net,2025-02-11,Premio asegurado solo hoy!,1226,2,3,1,1,0
+Tamara Andrés,lcornejo@example.com,2025-04-24,Lista de asistencia,1223,0,1,0,0,0
+Gustavo Burgos Fajardo,psaez@example.org,2025-03-06,¡Gana un viaje!,1133,2,2,1,1,1
+Almudena Galiano,nvilalta@example.com,2024-11-04,Premio asegurado solo hoy!,1384,2,5,1,1,1
+Amaya Jimenez-Pazos,teresita44@example.org,2024-04-09,¡Gana un viaje!,891,1,5,1,1,1
+Pacífica Téllez Grande,amanda94@example.org,2024-06-30,¡Gana dinero rápido!,1045,1,2,1,1,0
+Lina Royo-Nevado,cayetana41@example.net,2025-08-27,Agenda semanal,1195,0,1,0,0,0
+Elpidio Almansa-Fajardo,monteroxavier@example.com,2025-07-12,Plan de actividades,1296,0,0,0,0,0
+Nerea Viñas Villalobos,bayobarbara@example.net,2024-08-22,¡Has sido seleccionado!,1398,0,3,1,1,0
+Custodia Diego,severo57@example.org,2025-01-20,¡Gana un viaje!,1249,1,2,1,1,0
+Pío Ferreras Carrasco,bvera@example.net,2023-09-29,Lista de asistencia,947,1,1,0,0,0
+Ramón Herranz Taboada,htomas@example.net,2023-12-09,Plan de actividades,1290,0,1,0,0,0
+Dimas Juárez-Vazquez,torrentscalixto@example.com,2024-06-16,¡Gana un iPhone!,879,1,5,1,1,1
+Nicolasa del Casanovas,vtorrents@example.com,2025-02-05,Reporte de ventas,849,0,1,0,0,0
+Abilio Carrión Mendez,gerardo09@example.net,2025-08-12,¡Gana un iPhone!,976,0,2,1,1,0
+Danilo Tolosa Escobar,hernando17@example.net,2025-05-08,¡Gana dinero rápido!,1349,1,2,1,1,0
+Ofelia Castell Porcel,veronica70@example.com,2024-11-04,Agenda semanal,883,0,0,0,0,0
+Teresa Bayo Amo,xiomara94@example.com,2024-07-06,Agenda de actividades,998,0,1,0,0,0
+Ciríaco Rius,dianapeiro@example.net,2024-09-08,Transferencia pendiente,845,2,2,1,1,1
+María Cristina Serrano Alemán,bonillanoelia@example.com,2024-09-18,Transferencia pendiente,1043,1,5,1,1,1
+Leonardo Torrecilla Rosselló,candelasbenitez@example.com,2024-01-28,Informe mensual,1106,0,0,0,0,0
+Federico Benavente Clavero,olga66@example.net,2025-05-30,¡Gana dinero rápido!,953,0,5,1,1,1
+Angelino de Aguado,leopoldo56@example.net,2023-09-11,Minuta de reunión,912,0,0,0,0,0
+Chus Trillo Yuste,nalvarado@example.org,2024-09-03,Recibe tu dinero,995,1,5,1,1,1
+Emiliano Briones Ayala,qespinosa@example.com,2025-08-19,¡Gana dinero rápido!,1009,2,2,1,1,1
+Angélica Ledesma Cañizares,luistorrecilla@example.org,2025-03-18,Recibe tu dinero,1248,0,4,1,1,1
+Fortunata Sobrino Bas,cortesantonio@example.com,2024-03-09,¡Gana un viaje!,988,1,4,1,1,1
+Pilar de Olmo,csainz@example.net,2025-02-05,¡Gana dinero rápido!,981,2,3,1,1,0
+Rosalina Mata-Martinez,talaverajaime@example.org,2025-01-12,Oferta exclusiva para ti,1254,0,5,1,1,0
+Paulino Llorente-Rubio,dimaslobato@example.com,2023-11-05,Minuta de reunión,1343,0,1,0,0,0
+Juliana Calvo,rroman@example.com,2025-06-05,Premio en efectivo,807,2,5,1,1,1
+Francisco Jose Ballester Alcántara,pili44@example.org,2025-02-22,¡Última oportunidad!,1176,2,5,1,1,1
+Benjamín Royo Huerta,nebotana@example.com,2025-02-26,Oferta exclusiva para ti,1202,0,5,1,1,0
+Plinio Montes Falcó,ocalderon@example.org,2024-05-09,Agenda de actividades,894,0,0,0,0,0
+Elías Mendoza Hervia,maria-jose22@example.org,2025-06-03,Premio en efectivo,1328,1,2,1,1,0
+Albano Tejedor Rodrigo,josefachaparro@example.org,2024-04-13,Agenda de actividades,895,0,1,0,0,0
+Pelayo Castejón-Amo,flaviopaez@example.org,2023-10-08,¡Gana dinero rápido!,857,2,4,1,1,1
+Emiliana Novoa Briones,epeinado@example.net,2025-02-16,¡Gana un viaje!,1241,1,2,1,1,1
+Manolo Valle,lcanas@example.com,2024-06-04,¡Responde ahora!,930,1,5,1,1,0
+Luz Tejedor Vizcaíno,cebrianvigil@example.org,2023-12-06,Informe mensual,1047,0,1,0,0,0
+Paco Quirós Canales,escobarjuanita@example.org,2025-07-17,Plan de actividades,942,0,1,0,0,0
+Sarita Guzmán Lago,baudelio57@example.net,2023-12-22,¡Has sido seleccionado!,920,1,4,1,1,1
+Tristán Madrid Cabañas,zaida37@example.com,2024-06-12,¡Gana dinero rápido!,1146,0,5,1,1,0
+Curro Salmerón Cáceres,ruperta59@example.com,2024-10-17,¡Gana un viaje!,1308,0,4,1,1,1
+Dulce Moliner Cobos,fcarrasco@example.com,2024-10-31,Agenda semanal,802,0,0,0,0,0
+Estela Martin Piñeiro,laguila@example.org,2025-01-27,Informe trimestral,1306,0,1,0,0,0
+Adolfo del Pujol,maria-dolorescarbo@example.net,2024-07-02,Informe trimestral,1198,1,0,0,0,0
+Ariel Cristian Acosta Huguet,farcos@example.org,2025-02-13,Dinero fácil y rápido,855,0,2,1,1,1
+Pelayo Caparrós Palacios,maria-manuelamendez@example.net,2024-05-25,¡Responde ahora!,1295,1,3,1,1,0
+César del Azcona,palomarespatricio@example.org,2023-09-14,¡Responde ahora!,1018,1,4,1,1,0
+Serafina del Bernal,yaguado@example.com,2024-03-16,Minuta de reunión,1006,0,1,0,0,0
+Emiliana Codina Sevilla,brunildalluch@example.com,2023-11-13,Cita médica,878,0,0,0,0,0
+Marino Salom Ribas,dominguezlilia@example.net,2023-10-11,Agenda semanal,1192,0,1,0,0,0
+Lucho de Fajardo,germanbonilla@example.net,2025-05-25,Recibe tu dinero,1236,1,4,1,1,0
+Marcela Priscila Calvo Avilés,matarosalia@example.net,2024-02-28,¡Responde ahora!,1112,0,3,1,1,1
+Primitivo Crespi Jover,modesta89@example.net,2024-01-28,Informe trimestral,945,0,0,0,0,0
+Florina Andres Colomer,riglesias@example.net,2025-01-06,Reunión semanal,952,1,1,0,0,0
+José Antonio Durán-Tovar,vbatalla@example.org,2025-04-08,Dinero fácil y rápido,932,2,3,1,1,0
+Reynaldo Tur Peñas,tomashuertas@example.net,2024-07-16,¡Gana un iPhone!,1047,1,2,1,1,1
+Selena de Bernal,ignacia21@example.com,2024-03-01,Plan de trabajo,1093,0,0,0,0,0
+Fabio Chamorro Prats,reyes45@example.net,2024-01-28,Minuta de reunión,988,0,1,0,0,0
+Jose Ignacio Pomares Velázquez,itziar80@example.net,2024-11-28,¡Gana un viaje!,812,2,2,1,1,0
+Eva Soriano Castro,nfuster@example.org,2023-11-21,Dinero fácil y rápido,1266,1,5,1,1,1
+Almudena Antón Gomis,sotofermin@example.com,2024-06-05,Minuta de reunión,1178,0,0,0,0,0
+Victoriano del Cueto,lisandrobenito@example.net,2025-07-28,Cita médica,1134,0,0,0,0,0
+Teodosio Fernández Calvo,edmundo63@example.net,2024-12-28,Plan de trabajo,1252,1,1,0,0,0
+Amador Verdejo,casanovaadora@example.net,2024-05-01,Cita médica,836,0,0,0,0,0
+Marcelino Rueda Silva,orozas@example.com,2025-06-06,Plan de actividades,1067,0,0,0,0,0
+Dionisia Lumbreras Mosquera,heracliobilbao@example.org,2023-11-21,Reunión semanal,880,0,0,0,0,0
+Guadalupe Quintanilla-Ramirez,lara14@example.net,2025-07-19,Plan de actividades,809,0,0,0,0,0
+Ramiro Silva,mgallart@example.org,2024-02-14,Informe mensual,1007,1,1,0,0,0
+Amador de Pagès,arribascosme@example.org,2024-03-01,¡Gana un viaje!,982,2,2,1,1,1
+Adora Blanca Criado,luz52@example.com,2024-03-11,Premio en efectivo,920,1,2,1,1,1
+Sigfrido Villa-Chaves,vgallart@example.net,2025-03-27,Cita médica,1381,0,0,0,0,0
+Aitor Barreda,hoyosjulie@example.org,2024-08-10,Oferta exclusiva para ti,1074,2,3,1,1,1
+Nieves de Zapata,belen80@example.net,2024-09-08,Premio en efectivo,1388,1,2,1,1,1
+Sosimo Pazos Manrique,giraltanastasia@example.net,2023-11-25,¡Has sido seleccionado!,861,0,3,1,1,1
+Chuy del Linares,cristian11@example.net,2024-01-16,Premio asegurado solo hoy!,1219,1,2,1,1,1
+Heliodoro de Calderon,onogues@example.com,2024-07-16,Transferencia pendiente,1254,0,3,1,1,1
+Alex Duarte-Morillo,martinezfrancisco@example.org,2025-05-07,¡Responde ahora!,1391,0,5,1,1,0
+María Del Carmen González Sastre,silvio99@example.org,2024-10-25,¡Gana un iPhone!,1238,0,5,1,1,1
+Renato Maza-Olivera,eloytovar@example.org,2025-03-14,Plan de trabajo,1159,0,1,0,0,0
+Ainara Morena Collado Garay,marciomarques@example.net,2024-08-04,Agenda semanal,947,0,0,0,0,0
+Lourdes Vergara Alcántara,piedad22@example.com,2024-12-10,Recibe tu dinero,1174,0,2,1,1,1
+Rosalía Acedo-Vila,eusebioribes@example.net,2025-07-24,Premio en efectivo,1126,1,4,1,1,0
+Dulce Vidal-López,ainoa84@example.net,2024-07-15,Premio en efectivo,1144,0,5,1,1,1
+Aura Acedo Carbó,fustervenceslas@example.com,2023-10-11,Minuta de reunión,860,0,0,0,0,0
+Cesar de Fernandez,ainoa40@example.org,2024-10-29,Informe trimestral,1239,0,0,0,0,0
+Samu Solsona Pla,poloalbino@example.net,2024-03-16,¡Gana un viaje!,1225,0,4,1,1,1
+Maricruz Roldan Tejera,bvillalonga@example.com,2024-12-05,¡Gana un viaje!,927,0,3,1,1,1
+Arsenio Vives Andrés,silvio91@example.org,2024-07-22,Informe trimestral,1381,0,1,0,0,0
+Adolfo Ribas Collado,auraanguita@example.com,2023-12-27,¡Responde ahora!,1120,0,2,1,1,1
+Casemiro Francisco Verdugo,gutierrezmateo@example.org,2025-05-05,Minuta de reunión,1376,1,0,0,0,0
+Saturnino Atienza Rios,albertpascual@example.com,2025-05-28,Premio en efectivo,1326,2,3,1,1,1
+Eloy Godoy Blasco,coronadojose-mari@example.org,2024-11-01,Minuta de reunión,1285,1,0,0,0,0
+Bernardino Girona Gallardo,hector18@example.com,2024-12-21,Recibe tu dinero,861,0,5,1,1,1
+Hector Cuesta,virgilio32@example.com,2023-11-12,Cita médica,1214,0,0,0,0,0
+Macario Aguirre Navarrete,otiliablazquez@example.net,2024-02-08,Premio asegurado solo hoy!,1381,1,4,1,1,1
+Teófilo Amador-Mur,miguelaamor@example.net,2023-08-31,Reporte de ventas,859,0,0,0,0,0
+Amelia Ramirez Sarabia,bejaranomontserrat@example.com,2025-08-26,Plan de trabajo,1382,1,1,0,0,0
+Ascensión Belmonte Company,margarita89@example.net,2024-06-10,Recibe tu dinero,1191,0,2,1,1,1
+Artemio Verdú-Salvador,olmedomaria-teresa@example.net,2025-06-14,Plan de trabajo,1038,0,1,0,0,0
+Fernando del Lladó,hsoto@example.com,2025-07-31,Reporte de ventas,874,0,0,0,0,0
+Jose Carlos Alemán Vila,consuelolago@example.net,2024-06-18,Minuta de reunión,1067,0,1,0,0,0
+Joel de Pintor,edubejarano@example.com,2025-05-05,¡Responde ahora!,1138,2,3,1,1,1
+Marcelino Medina Vega,raul74@example.net,2025-07-03,Plan de actividades,914,0,1,0,0,0
+Olalla Aramburu Ros,carmelairiarte@example.org,2024-04-01,Informe mensual,1304,1,0,0,0,0
+Victorino Colom Posada,jfrias@example.com,2025-08-04,Cita médica,908,1,1,0,0,0
+Ileana Vall Tirado,juan-francisco63@example.org,2024-07-15,Oferta exclusiva para ti,1254,0,2,1,1,1
+Ramona Valcárcel Amat,natividadbaeza@example.com,2024-05-04,Plan de actividades,1258,0,0,0,0,0
+Ariadna Camps,redondofatima@example.com,2024-01-26,¡Gana dinero rápido!,1261,1,5,1,1,0
+Bibiana Roberta Canales Jaén,quirino37@example.net,2025-06-13,Agenda de actividades,1281,0,1,0,0,0
+Lorena Calderon,tamayomaria-belen@example.net,2025-02-22,Transferencia pendiente,1350,1,5,1,1,1
+Óscar Agustín Tomas,paco12@example.net,2025-01-02,Transferencia pendiente,952,2,3,1,1,0
+Germán Diéguez-Cánovas,krodriguez@example.net,2023-10-27,¡Gana un iPhone!,1010,0,3,1,1,1
+Florencio Conde,salesjosefina@example.org,2025-04-06,Premio en efectivo,819,1,5,1,1,1
+Leire Cordero Aramburu,ileanavalenzuela@example.org,2025-07-09,Informe mensual,913,1,0,0,0,0
+Alejandra Manso Ortega,arocafrancisco-javier@example.com,2025-04-16,Minuta de reunión,1052,0,1,0,0,0
+Renato Sierra Balaguer,ofeliaanguita@example.com,2024-02-03,Recordatorio de pago,1044,0,1,0,0,0
+Jaime Uriarte Puga,fblazquez@example.com,2025-06-02,Agenda semanal,1255,0,0,0,0,0
+Sabina Pallarès Benitez,agustiadelina@example.net,2025-01-15,Recibe tu dinero,1253,2,3,1,1,0
+Rosenda Espejo Narváez,humberto21@example.com,2024-02-04,Oferta exclusiva para ti,1141,1,5,1,1,1
+Bartolomé Atienza Múgica,trilloelodia@example.org,2025-04-02,Transferencia pendiente,1398,0,5,1,1,1
+Feliciana Saura Santos,ramispanfilo@example.org,2024-03-26,Reporte de ventas,1151,0,1,0,0,0
+Carla Torrents,heribertocompany@example.org,2025-01-18,Dinero fácil y rápido,1194,2,2,1,1,0
+Alonso Arnau Morera,tellovaleria@example.com,2025-01-11,Agenda de actividades,1299,1,0,0,0,0
+Odalys Marisol Carranza Cerezo,nmartorell@example.com,2023-10-12,Informe mensual,1019,1,0,0,0,0
+Ramón Esparza Segarra,camilabarba@example.org,2024-09-28,Plan de actividades,1226,0,0,0,0,0
+Melisa Trujillo Tormo,mascarojose-luis@example.net,2023-09-15,Plan de trabajo,887,0,1,0,0,0
+Juan Bautista Gibert Lillo,marisa41@example.net,2023-10-18,Reunión semanal,838,0,1,0,0,0
+Adán de Vaquero,pbastida@example.net,2023-09-13,¡Has sido seleccionado!,1351,2,2,1,1,1
+Amada Pi Maldonado,ebarrios@example.com,2025-05-19,Agenda de actividades,1132,0,0,0,0,0
+Eduardo Román Casals Egea,usedano@example.net,2025-08-08,Minuta de reunión,1101,0,1,0,0,0
+Manu Campo Amo,renatabauza@example.net,2025-01-07,Premio asegurado solo hoy!,1247,1,3,1,1,1
+Sara Gonzalez Alegre,harnaiz@example.org,2025-08-05,¡Última oportunidad!,1098,0,3,1,1,1
+Emperatriz del Almansa,cristobal57@example.com,2023-09-11,Oferta exclusiva para ti,1023,0,2,1,1,1
+Gerónimo Font Pastor,maria-pilar01@example.net,2024-12-15,Minuta de reunión,939,0,1,0,0,0
+Amada Brunilda Bas Andres,darce@example.com,2024-09-25,Reunión semanal,856,0,1,0,0,0
+Hernando Pedraza-Prada,santanavera@example.org,2025-07-18,Reunión semanal,1265,0,1,0,0,0
+Darío Pinto Romeu,ernestocases@example.net,2024-11-02,Cita médica,1197,0,0,0,0,0
+Áurea de Goicoechea,zvelasco@example.org,2023-10-06,¡Gana un viaje!,1277,0,5,1,1,1
+Tito Almazán,arobledo@example.com,2024-03-19,¡Gana un viaje!,1186,2,2,1,1,0
+Nazaret Bellido Vargas,artemioarco@example.org,2025-02-08,¡Has sido seleccionado!,912,0,2,1,1,1
+Anabel Milagros Sosa Oller,patriciacuadrado@example.org,2024-04-26,Agenda semanal,1240,0,0,0,0,0
+Virgilio Agustín Roldán,fulgencio79@example.net,2025-02-23,Transferencia pendiente,1144,2,2,1,1,0
+Ciriaco Lucho Castells Sala,gargallomanuel@example.net,2025-02-12,Premio asegurado solo hoy!,1324,0,3,1,1,1
+Vilma Carretero Puig,pinedomanuela@example.com,2025-02-23,Agenda semanal,1103,1,1,0,0,0
+Dora Chacón Riquelme,nelidaabad@example.net,2025-03-13,Reunión semanal,940,1,1,0,0,0
+Teodora Sainz Pujol,alemanysalome@example.net,2024-05-24,Agenda de actividades,1057,0,0,0,0,0
+Lucio Balaguer-Maza,carmela59@example.org,2025-08-14,Plan de actividades,853,0,1,0,0,0
+Jaime Cerdá-Alvarado,lumbrerassalvador@example.net,2023-10-23,Informe trimestral,817,0,0,0,0,0
+Rosalina Barbero Ramón,regina31@example.net,2024-08-01,Dinero fácil y rápido,1394,2,5,1,1,1
+Delia Antúnez Diez,cruzagudo@example.org,2025-07-21,Cita médica,1085,0,1,0,0,0
+Francisca Moreno Sanmartín,alberto26@example.com,2023-12-17,Premio en efectivo,1136,2,4,1,1,1
+Nazario Sastre-Arévalo,manuel67@example.net,2024-03-14,Lista de asistencia,1051,0,0,0,0,0
+Rodrigo Agustín Briones,arreguitoribio@example.org,2025-01-13,Minuta de reunión,808,1,0,0,0,0
+Gervasio Leon Roma,agimeno@example.com,2023-11-01,Plan de trabajo,921,0,1,0,0,0
+Simón Isern-Rebollo,jessicaegea@example.net,2025-03-19,Recibe tu dinero,1293,0,5,1,1,1
+Paola Cordero Juan,primitivomanzano@example.net,2025-03-16,Recibe tu dinero,1390,0,4,1,1,0
+Natalia Porcel-Pineda,estela49@example.net,2025-04-23,Premio en efectivo,1028,2,5,1,1,1
+Dulce Sarmiento-Carretero,aureliareina@example.net,2025-06-14,Plan de trabajo,978,0,1,0,0,0
+Visitación Donaire Figuerola,riusbonifacio@example.net,2024-07-17,Plan de actividades,1190,0,1,0,0,0
+Anastasio Cadenas,guadalupe89@example.net,2024-06-27,¡Última oportunidad!,852,1,5,1,1,0
+Florencio Santamaría Duque,clemente90@example.net,2025-08-12,Transferencia pendiente,941,2,2,1,1,1
+Andrés Felipe Pallarès,eloyechevarria@example.net,2024-12-05,Premio en efectivo,1018,2,4,1,1,1
+Inés Maza Calderón,snoriega@example.net,2025-08-11,Plan de trabajo,1004,0,1,0,0,0
+Gabriel del Lloret,wzamora@example.net,2024-08-30,Reporte de ventas,1047,0,0,0,0,0
+Cosme Mascaró Cervantes,velazquezjose@example.com,2025-05-23,Reunión semanal,1353,0,0,0,0,0
+Mohamed Villalba Rosell,anibaltellez@example.com,2024-03-26,Transferencia pendiente,1224,1,2,1,1,1
+Amado Redondo,herminioaliaga@example.org,2024-07-15,Agenda semanal,1136,0,0,0,0,0
+Germán Ortuño,eibanez@example.org,2024-07-29,Plan de trabajo,909,0,0,0,0,0
+Artemio Cardona Pedraza,dominguezsebastian@example.net,2025-03-23,¡Gana un viaje!,1075,1,5,1,1,1
+Álvaro Albano Anglada Caro,jesusconesa@example.org,2025-08-01,¡Responde ahora!,1116,0,5,1,1,1
+Matilde Galvez Rios,omar74@example.org,2025-03-17,Lista de asistencia,1174,0,0,0,0,0
+Begoña del Cabo,lbarroso@example.net,2025-03-22,¡Gana dinero rápido!,1132,2,4,1,1,0
+Felipa Valenciano,pascualarey@example.com,2024-11-12,Reporte de ventas,1179,0,1,0,0,0
+Ámbar de Catalán,veraalejandro@example.com,2023-09-17,Recordatorio de pago,1146,0,0,0,0,0
+Américo Guitart-Borrego,emelinaquesada@example.com,2023-12-17,Premio en efectivo,876,2,3,1,1,1
+Josefa del Martin,qcastaneda@example.net,2025-03-19,Recibe tu dinero,948,1,2,1,1,1
+Trini Dueñas-Dalmau,portilloberto@example.org,2023-10-13,Premio en efectivo,1041,2,4,1,1,1
+Ana Belén Pla Roman,hernan93@example.org,2023-12-31,Plan de actividades,817,0,0,0,0,0
+Humberto Cabanillas Bernal,castellanosangelita@example.org,2025-01-28,¡Has sido seleccionado!,1277,0,4,1,1,1
+Pascuala Pareja Piña,ale93@example.org,2024-10-07,¡Gana un iPhone!,1231,1,3,1,1,1
+Anabel Zorrilla Perea,gsantamaria@example.net,2024-01-07,Plan de trabajo,893,1,1,0,0,0
+Elpidio Guzmán Palmer,gaguado@example.org,2024-08-25,Plan de trabajo,800,1,1,0,0,0
+Anunciación Carpio Ros,andres-felipe85@example.net,2024-07-23,¡Gana un iPhone!,1107,1,3,1,1,0
+Etelvina Amor Zabaleta,wilfredoprat@example.com,2024-07-12,Dinero fácil y rápido,882,2,4,1,1,1
+Iker Bru-Tur,albinaalmeida@example.net,2025-03-10,¡Responde ahora!,977,2,5,1,1,1
+Eduardo de Izaguirre,berrocalbegona@example.net,2025-07-03,Informe trimestral,1326,0,0,0,0,0
+Cruz Cuervo Ruiz,cocaandres-felipe@example.org,2024-04-16,¡Gana un viaje!,1151,1,2,1,1,0
+Clarisa Cuervo Zaragoza,ramirogaya@example.net,2023-11-25,¡Has sido seleccionado!,1146,0,2,1,1,1
+Pablo Vito Garrido Lopez,alcalavalero@example.com,2025-06-19,Premio asegurado solo hoy!,1353,1,2,1,1,0
+América Vall Rosa,caballeroamada@example.com,2024-04-18,Informe mensual,1032,1,1,0,0,0
+Nilda Soria Hervás,donato21@example.org,2023-10-24,Reporte de ventas,857,0,1,0,0,0
+Che Modesto Bru Camino,almagromanu@example.net,2023-11-12,Agenda semanal,1170,0,0,0,0,0
+Evangelina Barón Acosta,lledoemilia@example.com,2024-02-18,¡Gana un iPhone!,884,1,4,1,1,1
+Amelia Soler Serra,clobo@example.net,2023-10-24,¡Gana un iPhone!,867,1,5,1,1,0
+Cebrián Garcés Robledo,felicidadborrego@example.org,2025-04-05,Premio asegurado solo hoy!,1337,0,4,1,1,1
+Carmina Vallejo Palacio,hsilva@example.net,2024-02-19,Reunión semanal,857,1,1,0,0,0
+Eutimio Tomas Nogueira,pavonisabel@example.com,2025-03-05,¡Has sido seleccionado!,908,1,5,1,1,1
+Reyes Verdejo Llobet,maria-jose88@example.net,2025-05-05,Agenda de actividades,1230,0,0,0,0,0
+Leocadio de Vázquez,menendezrafael@example.com,2024-01-28,Premio en efectivo,1337,2,5,1,1,0
+Amaro Natalio Verdejo Sáez,manucid@example.net,2024-01-06,Recordatorio de pago,1359,0,0,0,0,0
+Ramona Tapia Escamilla,albaquevedo@example.org,2025-02-05,¡Gana dinero rápido!,970,1,4,1,1,1
+Evelia Palomo-Goicoechea,juanitocadenas@example.com,2023-10-17,Premio en efectivo,1215,0,4,1,1,1
+Nieves Dorotea Palomino Lozano,santiagoxiomara@example.com,2024-08-08,Informe mensual,1057,0,0,0,0,0
+Concha Cañete Hernández,angelinablasco@example.org,2024-09-16,Informe mensual,1391,0,0,0,0,0
+Chuy Linares Suárez,marcos73@example.net,2023-09-02,Informe trimestral,817,0,0,0,0,0
+Amor Gimeno Patiño,almazanesperanza@example.net,2025-02-21,¡Has sido seleccionado!,1204,1,3,1,1,1
+Carmina Villalonga Martorell,bcasal@example.net,2024-11-08,Plan de actividades,949,0,1,0,0,0
+Agustina Quevedo Lopez,valverdenatalio@example.com,2024-12-03,Transferencia pendiente,1044,1,2,1,1,1
+Cándida Alfaro Márquez,dolores18@example.net,2025-08-02,Transferencia pendiente,1295,0,3,1,1,1
+Paco Barragán,bartolomevenceslas@example.org,2024-10-05,¡Última oportunidad!,1215,2,5,1,1,1
+Leticia Arias Jordá,jalberto@example.org,2025-01-31,¡Última oportunidad!,1279,0,5,1,1,1
+Carlota Casals Comas,zairaribes@example.net,2024-07-09,Plan de trabajo,1286,0,0,0,0,0
+Adrián Manso Jaume,kaguirre@example.org,2025-04-16,Reporte de ventas,947,0,1,0,0,0
+Febe Porta-Contreras,evillena@example.org,2024-06-13,¡Has sido seleccionado!,864,2,3,1,1,1
+Natividad Montaña,adriancanete@example.com,2024-10-08,Recordatorio de pago,1262,1,0,0,0,0
+Rosario Cabezas-Quesada,maria-jesuscapdevila@example.org,2025-08-10,Informe trimestral,854,0,1,0,0,0
+Efraín de Puga,demetriofont@example.net,2024-01-24,Agenda semanal,1030,1,0,0,0,0
+Celia Morán Carvajal,canaschita@example.org,2023-11-25,Minuta de reunión,1039,0,1,0,0,0
+Gerardo Crespi Parra,calisto65@example.org,2025-06-04,Recibe tu dinero,1231,0,5,1,1,1
+Consuela Pereira Ripoll,coelloinigo@example.org,2023-11-16,Premio asegurado solo hoy!,1130,1,3,1,1,0
+Begoña de Lucena,adelina50@example.com,2025-04-06,Transferencia pendiente,1293,2,4,1,1,1
+Óscar Coca Trujillo,americo33@example.net,2024-10-23,Recibe tu dinero,1160,2,3,1,1,1
+Raquel Chacón Beltrán,doroteasancho@example.net,2023-12-19,Recordatorio de pago,987,0,0,0,0,0
+Lucas Milla,rosalindabello@example.org,2025-05-12,Reporte de ventas,1271,0,1,0,0,0
+Verónica Sosa Monreal,emiliano97@example.net,2023-11-09,Recordatorio de pago,1156,0,1,0,0,0
+Gastón Alemán Cornejo,villaadriana@example.com,2024-09-12,Recordatorio de pago,1297,0,1,0,0,0
+Alba Cardona Ferrera,qperales@example.com,2025-05-16,¡Responde ahora!,1183,1,3,1,1,1
+Gloria Acedo,martiezequiel@example.net,2024-04-03,Lista de asistencia,1290,0,1,0,0,0
+Urbano Bernardo Tello Oliveras,clementinabosch@example.net,2025-03-26,Informe mensual,1016,0,1,0,0,0
+Carlota Calderón Abella,adelagaray@example.org,2025-02-01,Reporte de ventas,1100,1,0,0,0,0
+Manu Trujillo Diaz,tcoca@example.com,2025-04-05,¡Gana un viaje!,882,2,2,1,1,1
+Aurelio Nuñez Oller,paloma88@example.com,2025-04-30,Agenda de actividades,1090,0,1,0,0,0
+Apolonia Dueñas Vizcaíno,nvaquero@example.org,2024-10-24,¡Gana un viaje!,1109,2,5,1,1,1
+Clara Susana Azorin Puig,galo13@example.org,2024-01-26,Transferencia pendiente,833,2,3,1,1,1
+Vilma del Cepeda,iescobar@example.org,2025-01-11,¡Has sido seleccionado!,1028,2,2,1,1,0
+Tomás de Carreras,jgodoy@example.com,2025-04-15,Minuta de reunión,1386,0,1,0,0,0
+Miguel Ángel Alvarez,laura92@example.net,2024-11-20,Premio en efectivo,1127,2,3,1,1,1
+Lino Tirado Juan,gonzalo26@example.org,2024-02-12,¡Gana un iPhone!,1227,2,3,1,1,1
+Luciano Efraín Alberto Álvaro,regina49@example.net,2024-04-05,¡Gana un viaje!,1192,2,5,1,1,0
+Germán Bayo-Cuéllar,ecastello@example.org,2024-03-24,Plan de trabajo,1366,0,1,0,0,0
+Claudio Fortunato Granados Barros,paolafuentes@example.com,2024-02-11,Recibe tu dinero,914,2,2,1,1,1
+América Lara Molina Capdevila,santamariacandelaria@example.net,2023-10-09,Plan de trabajo,1054,0,1,0,0,0
+Joaquín Company Cózar,ecasanovas@example.org,2024-02-02,Informe mensual,1113,0,1,0,0,0
+Carmina Cuéllar Lucena,olegariocervera@example.net,2025-05-21,Dinero fácil y rápido,1354,2,4,1,1,1
+Olimpia Ros Llobet,uabril@example.org,2025-04-16,Transferencia pendiente,1140,0,2,1,1,0
+Anita Carmen Pozo Cabañas,estefania14@example.net,2024-10-18,Agenda de actividades,1178,0,1,0,0,0
+Amada María Jesús Toro Sedano,isidora69@example.com,2024-02-04,Informe mensual,1159,1,0,0,0,0
+Álvaro Estévez Asenjo,eusebio05@example.com,2024-06-01,Agenda semanal,1371,0,0,0,0,0
+Ale Severino Rey Chico,ygordillo@example.net,2024-03-19,Informe mensual,1023,0,1,0,0,0
+Juan Pablo Marcos Viñas,gcespedes@example.org,2024-06-26,¡Gana dinero rápido!,1056,0,2,1,1,1
+Arsenio Meléndez-Cuesta,daniel21@example.com,2024-12-06,Dinero fácil y rápido,1288,1,5,1,1,0
+Marco Crespo-Hernandez,blaspizarro@example.com,2024-05-01,Lista de asistencia,1352,0,1,0,0,0
+Manuel Benavent Reina,msans@example.org,2025-08-23,Informe trimestral,1304,0,1,0,0,0
+Modesto Caballero Torrent,ortiznatalio@example.org,2025-05-30,Cita médica,1048,0,0,0,0,0
